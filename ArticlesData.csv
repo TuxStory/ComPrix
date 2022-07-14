@@ -11,12 +11,14 @@ Date,Enseigne,Article,Prix
 02/08/2018,Match,Coca 15cl,0.50
 19/08/2018,Delhaize,Coca 15cl,0.51
 22/08/2018,Spar,Coca 15cl,0.48
+14/07/2022,Colruyt,Coca 15cl,0.56
 22/10/2017,Carrefour,Lays 45gr,0.62
 09/07/2018,Colruyt,Lays 45gr,0.63
 02/08/2018,Match,Lays 45gr,0.59
 13/07/2022,Colruyt,Lays 45gr,0.69
 02/08/2018,Match,Heinz tomato,1.77
 02/08/2018,Match,Aiki Noodles,1.39
+14/07/2022,Colruyt,Aiki Noodles,1.49
 09/07/2022,Match,Fanta Zero 33cl,0.80
 13/07/2022,Colruyt,Fanta Zero 33cl,0.75
 24/01/2018,Colruyt,Kinder Maxi,1.99
@@ -29,3 +31,5 @@ Date,Enseigne,Article,Prix
 13/07/2022,Colruyt,Salade Caesar,3.99
 24/04/2018,Colruyt,Huile Olive 1L,4.00
 20/04/2019,Colruyt,Huile Olive 1L,4.25
+14/07/2022,Colruyt,Huile Olive 1L,6.49
+14/07/2022,Colruyt,Coca 33cl,0.67

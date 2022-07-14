@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.1
+# Version 0.0.2
 # Antoine Even
 
 import pandas as pd
@@ -20,8 +20,7 @@ def Filtre(Data):
 
 def main():
     Tab = DataList()
-    print (Tab)
-    print ("="*48)
+#    print (Tab)
     Tri = Sorted(Tab)
     print (Tri)
     print ("="*48)
