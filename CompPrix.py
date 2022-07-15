@@ -1,13 +1,25 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.2
+# Version 0.0.3 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
 
+def Menu():
+    print("1. Afficher la liste des produits")
+    print("2. Afficher la liste des enseignes")
+    print("3. afficher la liste des prix d'un produit")
+    print("4. Afficher les données")
+    print("Q. Sortir du programme")
+    Choix = input("Votre choix [1-4] : ")
+    return Choix
+
 def DataList():
-    Data = pd.read_csv("ArticlesData.csv")
-    return Data
+    try:
+        Data = pd.read_csv("ArticlesData.csv")
+        return Data
+    except:
+        print ("[ Erreur ] Avec le fichier des données ou les données")
 
 def Sorted(Data):
     sorted_df = Data.sort_values("Prix")
@@ -19,16 +31,27 @@ def Filtre(Data):
 #df.query('ctg == "B" and val > 0.5')
 
 def main():
+    #Variable et lecture des données
+    quit = False
     Tab = DataList()
-#    print (Tab)
-    Tri = Sorted(Tab)
-    print (Tri)
     print ("="*48)
-    Fil = Filtre(Tab)
-    print (Fil)
-    print ("="*48)
-    Tri2 = Sorted(Fil)
-    print (Tri2)
+
+    #Boucle
+    while quit != True:
+        Action = Menu()
+        print ("="*48)
+        if Action == "Q":
+            quit = True
+        if Action == "3":
+            Fil = Filtre(Tab)
+            Tri2 = Sorted(Fil)
+            print (Tri2)
+            print ("\n")
+        if Action == "4":
+            Tri = Sorted(Tab)
+            print ("\n")
+            print(Tri)
+            print ("\n")
 
 if __name__=="__main__":
     main()
