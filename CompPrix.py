@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.6 (Don't judge it now)
+# Version 0.0.7 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
@@ -48,6 +48,10 @@ def Filtre(Data,Item):
     data = Data[Data.Article == Item] #data = Data[Data.Article == 'Coca 33cl']
     return data                       #df.query('ctg == "B" and val > 0.5')
 
+def Press():
+    print ("\n")
+    input("Appuyer sur 'Entrer' pour continuer...")
+
 def main():
     #Variable et lecture des données
     quit = False
@@ -64,31 +68,31 @@ def main():
         if Action == "1":
             ListProd = Unique(Tab)
             print(ListProd)
-            print ("\n")
+            Press()
             
         if Action == "2":
             ListMag = Magasin(Tab)
             print(ListMag)
-            print ("\n")
+            Press()
             
         if Action == "3":
             Article = input ("Nom du produit désiré : ")
             Fil = Filtre(Tab,Article)
             Tri2 = Sorted(Fil)
             print(Tri2)
-            print ("\n")
+            Press()
         
         if Action == "4":
             Article = input ("Nom du produit désiré : ")
             Fil = Filtre(Tab,Article)
             Chrono = Date(Fil)
             print(Chrono)
-            print ("\n")
+            Press()
             
         if Action == "5":
             Tri = Sorted(Tab)
             print(Tri)
-            print ("\n")
+            Press()
 
 if __name__=="__main__":
     main()
