@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.5 (Don't judge it now)
+# Version 0.0.6 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
@@ -39,8 +39,9 @@ def Sorted(Data):
     return sorted_df
 
 def Date(Data):
-    Data["Date"] = pd.to_datetime(Data["Date"])
-    sorted_df = Data.sort_values("Date")
+    DF = Data.copy() #Copie de la DataFrame pour eviter les warnings.
+    DF["Date"] = pd.to_datetime(DF["Date"])
+    sorted_df = DF.sort_values("Date")
     return sorted_df   
 
 def Filtre(Data,Item):
@@ -56,7 +57,8 @@ def main():
     while quit != True:
         Action = Menu()
         print ("="*48)
-        if Action == "Q":
+        if Action == "Q" or Action == "q":
+            print (" >>> Bye!")
             quit = True
             
         if Action == "1":
