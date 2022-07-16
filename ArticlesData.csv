@@ -17,8 +17,10 @@ Date,Enseigne,Article,Prix
 02/08/2018,Match,Lays 45gr,0.59
 13/07/2022,Colruyt,Lays 45gr,0.69
 13/07/2022,Delhaize,Lays 45gr,0.69
-02/08/2018,Match,Heinz Tomato,1.77
+02/08/2018,Match,Heinz Tomato 605,1.77
 02/08/2018,Match,Aiki Noodles,1.39
+16/07/2022,Delhaize,Aiki Noodles,1.49
+16/07/2022,Carrefour,Aiki Noodles,1.70
 14/07/2022,Colruyt,Aiki Noodles,1.49
 09/07/2022,Match,Fanta Zero 33cl,0.80
 13/07/2022,Colruyt,Fanta Zero 33cl,0.75
@@ -50,3 +52,4 @@ Date,Enseigne,Article,Prix
 15/07/2022,Match,Lays 45gr,0.65
 15/07/2022,Match,Coca 33cl,0.74
 15/07/2022,Match,Fanta Zero 33cl,0.80
+
