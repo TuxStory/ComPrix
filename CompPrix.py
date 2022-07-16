@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.3 (Don't judge it now)
+# Version 0.0.4 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
@@ -21,20 +21,24 @@ def DataList():
     except:
         print ("[ Erreur ] Avec le fichier des données ou les données")
 
+def Unique(Data):
+    Data = Data.sort_values("Article")
+    Data = Data['Article']
+    unique_df = Data.drop_duplicates()
+    return unique_df
+
 def Sorted(Data):
     sorted_df = Data.sort_values("Prix")
     return sorted_df
 
-def Filtre(Data):
-    data = Data[Data.Article == 'Coca 33cl']
-    return data
-#df.query('ctg == "B" and val > 0.5')
+def Filtre(Data,Item):
+    data = Data[Data.Article == Item] #data = Data[Data.Article == 'Coca 33cl']
+    return data                       #df.query('ctg == "B" and val > 0.5')
 
 def main():
     #Variable et lecture des données
     quit = False
     Tab = DataList()
-    print ("="*48)
 
     #Boucle
     while quit != True:
@@ -42,14 +46,18 @@ def main():
         print ("="*48)
         if Action == "Q":
             quit = True
+        if Action == "1":
+            ListProd = Unique(Tab)
+            print(ListProd)
+            print ("\n")
         if Action == "3":
-            Fil = Filtre(Tab)
+            Article = input ("Nom du produit désiré : ")
+            Fil = Filtre(Tab,Article)
             Tri2 = Sorted(Fil)
             print (Tri2)
             print ("\n")
         if Action == "4":
             Tri = Sorted(Tab)
-            print ("\n")
             print(Tri)
             print ("\n")
 
