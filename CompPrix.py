@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.7 (Don't judge it now)
+# Version 0.0.8 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
@@ -27,13 +27,13 @@ def Unique(Data):
     Data = Data['Article']
     unique_df = Data.drop_duplicates()
     return unique_df
-    
+
 def Magasin(Data):
     Data = Data.sort_values("Enseigne")
     Data = Data['Enseigne']
     Magasin_df = Data.drop_duplicates()
     return Magasin_df
-    
+
 def Sorted(Data):
     sorted_df = Data.sort_values("Prix")
     return sorted_df
@@ -42,7 +42,7 @@ def Date(Data):
     DF = Data.copy() #Copie de la DataFrame pour eviter les warnings.
     DF["Date"] = pd.to_datetime(DF["Date"])
     sorted_df = DF.sort_values("Date")
-    return sorted_df   
+    return sorted_df
 
 def Filtre(Data,Item):
     data = Data[Data.Article == Item] #data = Data[Data.Article == 'Coca 33cl']
@@ -60,35 +60,35 @@ def main():
     #Boucle
     while quit != True:
         Action = Menu()
-        print ("="*48)
+        print ("="*51)
         if Action == "Q" or Action == "q":
             print (" >>> Bye!")
             quit = True
-            
+
         if Action == "1":
             ListProd = Unique(Tab)
             print(ListProd)
             Press()
-            
+
         if Action == "2":
             ListMag = Magasin(Tab)
             print(ListMag)
             Press()
-            
+
         if Action == "3":
             Article = input ("Nom du produit désiré : ")
             Fil = Filtre(Tab,Article)
             Tri2 = Sorted(Fil)
             print(Tri2)
             Press()
-        
+
         if Action == "4":
             Article = input ("Nom du produit désiré : ")
             Fil = Filtre(Tab,Article)
             Chrono = Date(Fil)
             print(Chrono)
             Press()
-            
+
         if Action == "5":
             Tri = Sorted(Tab)
             print(Tri)
