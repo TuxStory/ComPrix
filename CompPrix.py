@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 # 14/07/2022
-# Version 0.0.8 (Don't judge it now)
+# Version 0.0.9 (Don't judge it now)
 # Antoine Even
 
 import pandas as pd
+
+pd.set_option('display.max_rows', None) # Pour afficher toutes les lignes du DF, 10 par défaut.
 
 def Menu():
     print("1. Afficher la liste des produits.")
