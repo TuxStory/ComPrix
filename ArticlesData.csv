@@ -7,25 +7,31 @@ Date,Enseigne,Article,Prix
 08/06/2018,Match,Coca 33cl,0.68
 02/08/2018,Match,Coca 33cl,0.68
 22/08/2018,Spar,Coca 33cl,0.66
+30/07/2022,Carrefour,Coca 33cl,0.76
 09/07/2018,Colruyt,Coca 15cl,0.48
 02/08/2018,Match,Coca 15cl,0.50
 19/08/2018,Delhaize,Coca 15cl,0.51
 22/08/2018,Spar,Coca 15cl,0.48
 14/07/2022,Colruyt,Coca 15cl,0.56
+30/07/2022,Carrefour,Coca 15cl,0.56
 22/10/2017,Carrefour,Lays 45gr,0.62
 09/07/2018,Colruyt,Lays 45gr,0.63
 02/08/2018,Match,Lays 45gr,0.59
 13/07/2022,Colruyt,Lays 45gr,0.69
 13/07/2022,Delhaize,Lays 45gr,0.69
-02/08/2018,Match,Heinz Tomato 605,1.77
+02/08/2018,Match,Heinz Tomato 500,1.77
+30/07/2022,Carrefour,Heinz Tomato 500,2.45
 02/08/2018,Match,Aiki Noodles,1.39
 16/07/2022,Delhaize,Aiki Noodles,1.49
 16/07/2022,Carrefour,Aiki Noodles,1.70
+30/07/2022,Carrefour,Aiki Noodles,1.70
 14/07/2022,Colruyt,Aiki Noodles,1.49
 09/07/2022,Match,Fanta Zero 33cl,0.80
 18/07/2022,Delhaize,Fanta Zero 33cl,0.79
 13/07/2022,Colruyt,Fanta Zero 33cl,0.75
+30/07/2022,Carrefour,Fanta Zero 33cl,0.79
 24/01/2018,Colruyt,Kinder Maxi,1.99
+30/07/2022,Carrefour,Kinder Maxi,1.99
 13/07/2022,Colruyt,Kinder Maxi,2.15
 16/08/2021,Colruyt,Boni Ravioli,0.79
 13/07/2022,Colruyt,Boni Ravioli,0.89
@@ -45,6 +51,7 @@ Date,Enseigne,Article,Prix
 15/07/2022,Delhaize,Phil Light 320,2.99
 15/07/2022,Colruyt,Phil Light 320,2.99
 15/07/2022,Carrefour,Phil Light 320,3.29
+30/07/2022,Carrefour,Phil Light 320,3.29
 15/07/2022,Match,Phil Light 320,3.29
 13/07/2022,Colruyt,Harrys Mie Complet,3.35
 01/06/2022,Colruyt,Harrys Mie Complet,3.35
@@ -61,6 +68,7 @@ Date,Enseigne,Article,Prix
 29/07/2022,Match,Emmental tr,2.14
 18/07/2022,Carrefour,Royco Pasta Bolo,2.05
 13/07/2022,Colruyt,Royco Pasta Bolo,1.40
+30/07/2022,Carrefour,Royco Pasta Bolo,1.99
 13/07/2022,Delhaize,Innocent Jus Orange Bleu,2.69
 22/07/2022,Delhaize,De Cecco Pene 500,2.69
 22/07/2022,Delhaize,Milka100g,1.19
@@ -73,3 +81,7 @@ Date,Enseigne,Article,Prix
 28/07/2022,Spar,Everyday Chocolat Noir 200g,0.78
 28/07/2022,Colruyt,Everyday Chocolat Noir 200g,0.75
 29/07/2022,Match,Cora Chips Alegée,0.78
+30/07/2022,Carrefour,Milka100g,1.35
+30/07/2022,Carrefour,Lays 45gr,1.69
+30/07/2022,Carrefour,Farine T55 1kg,0.65
+30/07/2022,Carrefour,Harrys Mie Complet,3.69
