@@ -39,6 +39,7 @@ Date,Enseigne,Article,Prix
 01/06/2022,Colruyt,Calvé Mayo 650,2.87
 17/08/2017,Colruyt,Salade Caesar,3.39
 13/07/2022,Colruyt,Salade Caesar,3.99
+22/08/2022,Colruyt,Salade Caesar,3.99
 24/04/2018,Colruyt,Huile Olive 1L,4.00
 20/04/2019,Colruyt,Huile Olive 1L,4.25
 14/07/2022,Colruyt,Huile Olive 1L,6.49
@@ -75,26 +76,26 @@ Date,Enseigne,Article,Prix
 30/07/2022,Carrefour,Royco Pasta Bolo,1.99
 13/07/2022,Delhaize,Innocent Jus Orange Bleu,2.69
 22/07/2022,Delhaize,De Cecco Pene 500,2.69
-22/07/2022,Delhaize,Milka100g,1.19
-17/08/2022,Delhaize,Milka100g,1.19
-17/07/2022,Match,Milka100g,1.24
-29/07/2022,Match,Milka100g,1.25
-28/07/2022,Spar,Milka100g,1.28
-22/08/2022,Colruyt,Milka100g,1.19
+22/07/2022,Delhaize,Milka100gr,1.19
+17/08/2022,Delhaize,Milka100gr,1.19
+17/07/2022,Match,Milka100gr,1.24
+29/07/2022,Match,Milka100gr,1.25
+28/07/2022,Spar,Milka100gr,1.28
+22/08/2022,Colruyt,Milka100gr,1.19
 18/07/2022,Delhaize,Magnum White x6,6.09
 20/07/2022,Action,Milka Biscuit 150g,1.24
 22/07/2022,Delhaize,Milka Biscuit 150g,1.73
 28/07/2022,Spar,Everyday Chocolat Noir 200g,0.78
 28/07/2022,Colruyt,Everyday Chocolat Noir 200g,0.75
 29/07/2022,Match,Cora Chips Alegée,0.78
-30/07/2022,Carrefour,Milka100g,1.35
+30/07/2022,Carrefour,Milka100gr,1.35
 30/07/2022,Carrefour,Lays 45gr,0.69
 30/07/2022,Carrefour,Farine T55 1kg,0.65
 30/07/2022,Carrefour,Harrys Mie Complet,3.69
 04/07/2022,Action,Pile 9v,1.15
 04/07/2022,Colruyt,Pile 9v,1.69
 06/07/2022,Match,Pile 9v,4.23
-10/08/2022,Colruyt,Milka100g,1.09
+10/08/2022,Colruyt,Milka100gr,1.09
 10/08/2022,Colruyt,Phil Light 320,2.99
 22/08/2022,Colruyt,Harrys Mie Complet,3.35
 22/08/2022,Colruyt,Lays 45gr,0.69
