@@ -46,4 +46,11 @@ sqlite> Select * from Articles where Article="Harrys Mie Complet" order by Prix;
 13/07/2022,Match,"Harrys Mie Complet",3.78
 sqlite> 
 
+sqlite> SELECT DISTINCT Enseigne FROM Articles;
+Colruyt
+Match
+Spar
+Carrefour
+Delhaize
+Action
 
