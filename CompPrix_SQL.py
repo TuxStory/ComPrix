@@ -27,12 +27,17 @@ def Unique():
     return Data
 
 def Magasin():
-    rows = cursor.execute("SELECT DISTINCT Enseigne FROM Articles").fetchall()
+    rows = cursor.execute("SELECT DISTINCT Enseigne FROM ArticlesData").fetchall()
     Data = tabulate(rows)
     return Data
 
 def Filtre(Article):
     rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ? order by Prix",(Article,)).fetchall()
+    Data = tabulate(rows)
+    return Data
+
+def Filtre2(Article):
+    rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ?",(Article,)).fetchall()
     Data = tabulate(rows)
     return Data
 
@@ -69,6 +74,12 @@ def main():
         if Action == "3":
             Article = input ("Nom du produit désiré : ")
             Tab = Filtre(Article)
+            print (Tab)
+            Press()
+
+        if Action == "4":
+            Article = input ("Nom du produit désiré : ")
+            Tab = Filtre2(Article)
             print (Tab)
             Press()
 
