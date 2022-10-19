@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 17/10/2022
-# Version 0.0.3
+# Version 0.0.4
 # Antoine Even
 
 import sqlite3
@@ -8,7 +8,7 @@ from tabulate import tabulate
 
 # Connection à la base de donnée SQLite
 connection = sqlite3.connect("ArticlesData.db")
-print(connection.total_changes)
+#print(connection.total_changes)
 cursor = connection.cursor()
 
 def Menu():
