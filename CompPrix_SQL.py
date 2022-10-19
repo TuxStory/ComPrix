@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 17/10/2022
-# Version 0.0.4
+# Version 0.0.5
 # Antoine Even
 
 import sqlite3
@@ -56,7 +56,7 @@ def main():
     #boucle
     while quit != True:
         Action = Menu()
-        print("="*51)
+        print("\n")
         if Action == "Q" or Action == "q":
             print(">>> Bye!")
             quit = True
