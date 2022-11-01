@@ -2,11 +2,11 @@
 Comparateur de prix.
 
 ### Description.
-Petit programme de comparaison de prix développé en python.
-Les articles se trouvent dans un fichier csv.
+Petit programme de comparaison de prix développé en python.  
+Les articles se trouvent dans un fichier csv.  
 Une seconde version utilise une base de données SQL à la place du fichier csv.
   
-Le fichier sera mis à jour régulièrement.
+Le fichier sera mis à jour régulièrement.  
 Vous pouvez modifier et/ou completer le fichier avec vos articles.  
 Un script permet de convertir le fichier csv en bade de données SQL.  
   
