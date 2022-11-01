@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 17/10/2022
-# Version 0.0.5
+# 01/11/2022
+# Version 0.0.6
 # Antoine Even
 
 import sqlite3
@@ -15,7 +15,7 @@ def Menu():
     print("1. Afficher la liste des produits.")
     print("2. Afficher la liste des enseignes.")
     print("3. Afficher la liste d'un produit par prix.")
-    print("4. Afficher la liste d'un produit par date.")
+    print("4. Afficher la liste d'un produit par prix & par Enseigne.")
     print("5. Afficher les données.")
     print("Q. Sortir du programme.")
     Choix = input("Votre choix [1-5] : ")
@@ -36,8 +36,8 @@ def Filtre(Article):
     Data = tabulate(rows)
     return Data
 
-def Filtre2(Article):
-    rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ?",(Article,)).fetchall()
+def PrixEnseigne(Article):
+    rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ? order by Enseigne",(Article,)).fetchall()
     Data = tabulate(rows)
     return Data
 
@@ -79,7 +79,7 @@ def main():
 
         if Action == "4":
             Article = input ("Nom du produit désiré : ")
-            Tab = Filtre2(Article)
+            Tab = PrixEnseigne(Article)
             print (Tab)
             Press()
 
