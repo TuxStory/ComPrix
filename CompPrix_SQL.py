@@ -1,17 +1,17 @@
 #!/usr/bin/python3
 # 01/11/2022
-# Version 0.0.6
+# Version 0.0.7
 # Antoine Even
 
 import sqlite3
 import sys
-#from tabulate import tabulate
 try:
     from tabulate import tabulate
 except ImportError as e:
-    print("Le module tabulaute n'est pas installé.")
+    print("Le module tabulate n'est pas installé.")
+    print("sudo apt/dnf install python3-tabulate")
     sys.exit(1)
-    
+
 # Connection à la base de donnée SQLite
 connection = sqlite3.connect("ArticlesData.db")
 #print(connection.total_changes)
