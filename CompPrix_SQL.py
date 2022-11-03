@@ -4,8 +4,14 @@
 # Antoine Even
 
 import sqlite3
-from tabulate import tabulate
-
+import sys
+#from tabulate import tabulate
+try:
+    from tabulate import tabulate
+except ImportError as e:
+    print("Le module tabulaute n'est pas installé.")
+    sys.exit(1)
+    
 # Connection à la base de donnée SQLite
 connection = sqlite3.connect("ArticlesData.db")
 #print(connection.total_changes)
