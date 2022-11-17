@@ -1,4 +1,7 @@
-#!/bin/sh
+#!/bin/bash
+
+############### Version
+Version='0.0.8'
 
 ############### Couleurs
 GREEN='\033[1;32m'
@@ -13,16 +16,19 @@ echo "Fedora : sudo dnf install sqlite"
 exit 1
 fi
 
-############### delete previous file
-echo -e "${GREEN}>>>${WHITE} Delete old ArticlesData.db"
+############### Message
+echo -e "${GREEN}>>>${WHITE} Converting csv to database. Version : $Version"
+
+############### Delete previous file
+echo -e "${GREEN}>>>${WHITE} 1. Delete old ArticlesData.db"
 rm ArticlesData.db
 
 ############### Database
-echo -e "${GREEN}>>>${WHITE} Converting DataBase"
+echo -e "${GREEN}>>>${WHITE} 2. Converting DataBase"
 sqlite3 ArticlesData.db <<'END_SQL'
 .timeout 2000
 .mode csv
 .import ArticlesData.csv ArticlesData
 .quit
 END_SQL
-echo -e "${GREEN}>>>${WHITE} Done."
+echo -e "${GREEN}>>>${WHITE} 3. Done. The database is ready."
