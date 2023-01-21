@@ -18,4 +18,6 @@ Exemple : `17/02/2022,Carrefour,Coca 33cl,0.74`
 - Colruyt
 - Delhaize
 - Spar
-- Match  
+- Match
+- Aldi
+- Intermarché  
