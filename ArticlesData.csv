@@ -135,6 +135,7 @@ Date,Enseigne,Article,Prix
 14/09/2022,Colruyt,Bister250,1.29
 14/09/2022,Colruyt,EverydayChocoNoir200g,0.74
 14/09/2022,Colruyt,Croutons,1.35
+14/09/2022,Colruyt,Mouchoirs,0.55
 14/09/2022,Colruyt,Harrys Mie Complet,3.69
 21/09/2022,Delhaize,Harrys Mie Complet,3.69
 14/09/2022,Colruyt,FromageTrMou,1.11
@@ -282,6 +283,8 @@ Date,Enseigne,Article,Prix
 11/01/2023,Aldi,Maredsous 200gr,2.59
 11/01/2023,Aldi,Phil Light 320,2.95
 11/01/2023,Aldi,Framboise 125gr,2.00
+11/01/2023,Aldi,Jus Orange 1L,0.99
+11/01/2023,Aldi,Jus Pomme 1L,0.69
 14/01/2023,Intermarché,Ravioli,0.95
 14/01/2023,Intermarché,Kinder Maxi,2.15
 14/01/2023,Intermarché,Jacquet Hamburger,3.69
@@ -310,3 +313,19 @@ Date,Enseigne,Article,Prix
 21/01/2023,Intermarché,Lu Crackers,1.75
 21/01/2023,Intermarché,Pain Mie Blanc,1.69
 21/01/2023,Intermarché,FromageTrMou,0.99
+25/01/2023,Carrefour,Jus Orange 1L,1.39
+25/01/2023,Carrefour,Jus Pomme 1L,1.09
+25/01/2023,Match,Milka100gr,1.29
+25/01/2023,Delhaize,Royco SupremeTom,1.69
+25/01/2023,Delhaize,Emmental Tr,1.99
+25/01/2023,Delhaize,Mouchoirs,0.75
+25/01/2023,Delhaize,Lu Crackers,1.79
+25/01/2023,Delhaize,EverydayGalette,2.05
+25/01/2023,Delhaize,PimpsOrange,1.09
+25/01/2023,Delhaize,BananeKG,1.45
+25/01/2023,Delhaize,FromageTrMou,1.49
+25/01/2023,Colruyt,FromageTrMou,1.35
+25/01/2023,Colruyt,Mouchoirs,0.69
+25/01/2023,Colruyt,EverydayGalette,1.36
+25/01/2023,Colruyt,Jus Orange 1L,0.86
+25/01/2023,Colruyt,Jus Pomme 1L,0.59
