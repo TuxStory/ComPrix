@@ -13,11 +13,12 @@ Un script permet de convertir le fichier csv en bade de données SQL.
 Les articles sont encodés : Date,Enseigne,Article,Prix  
 Exemple : `17/02/2022,Carrefour,Coca 33cl,0.74`  
    
- Pour l'instant les enseignes présentent dans le fichier :
+ Les enseignes présentent dans le fichier :
 - Carrefour 
 - Colruyt
 - Delhaize
 - Spar
 - Match
 - Aldi
-- Intermarché  
+- Intermarché
+- Shop&Go Delhaize
