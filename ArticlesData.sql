@@ -376,7 +376,7 @@ INSERT INTO ArticlesData VALUES('08/02/2023','Colruyt','Croutons','1.55');
 INSERT INTO ArticlesData VALUES('08/02/2023','Colruyt','7up Free 33cl','0.75');
 INSERT INTO ArticlesData VALUES('08/02/2023','Colruyt','LU Crackers','1.79');
 INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','Pain Mie Blanc','2.29');
-INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','Sandwish','0.49');
+INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','Sandwich','0.49');
 INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','Jus Pomme 1L','0.89');
 INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','SoupeTomBou','1.25');
 INSERT INTO ArticlesData VALUES('15/02/2023','Carrefour','Emmetal Tr','1.85');
