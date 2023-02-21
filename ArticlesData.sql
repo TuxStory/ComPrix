@@ -256,7 +256,7 @@ INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Fitness 450gr','5.35')
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Phil Light 320','3.35');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Tuc Original','0.75');
 INSERT INTO ArticlesData VALUES('14/12/2022','Spar','Tuc Original','0.86');
-INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Car crackersX3','1.75');
+INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Car CrackersX3','1.75');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Cheddar','3');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Oeufs12','2.29');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Emmental Tr','1.85');
@@ -387,4 +387,19 @@ INSERT INTO ArticlesData VALUES('17/02/2023','Delhaize','SauceTomateLegMini','0.
 INSERT INTO ArticlesData VALUES('17/02/2023','Spar','Milka100gr','1.35');
 INSERT INTO ArticlesData VALUES('17/02/2023','Spar','Pain Brioc Hamburger','1.89');
 INSERT INTO ArticlesData VALUES('17/02/2023','Spar','Beurre de cacahuétes','1.78');
+INSERT INTO ArticlesData VALUES('21/02/2023','Intermarché','Biscuit Breton','1.09');
+INSERT INTO ArticlesData VALUES('21/02/2023','Intermarché','PimpsOrange','0.99');
+INSERT INTO ArticlesData VALUES('21/02/2023','Action','Bueno 3-Pack','2.39');
+INSERT INTO ArticlesData VALUES('21/02/2023','Action','Milka100gr','1.23');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Mouchoirs','0.79');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','BiscotteComp','1.79');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','FromageTrMou','1.29');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Ampoule GU10 50W','1.29');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Cote d''or 400gr','3.97');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Phil Light 320','3.25');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Croutons','1.55');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','RizMedit250','1.49');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Car CrackersX3','1.75');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Fanta Zero 33cl','0.85');
+INSERT INTO ArticlesData VALUES('21/02/2023','Carrefour','Carrefour','Lasagne');
 COMMIT;
