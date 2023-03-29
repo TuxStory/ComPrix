@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 01/11/2022
-# Version 0.0.7
+# 29/03/2023
+# Version 0.0.8
 # Antoine Even
 
 import sqlite3
