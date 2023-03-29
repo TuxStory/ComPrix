@@ -43,7 +43,7 @@ def Filtre(Article):
     return Data
 
 def PrixEnseigne(Article):
-    rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ? order by Enseigne",(Article,)).fetchall()
+    rows = cursor.execute("Select * FROM ArticlesData WHERE Article= ? order by Enseigne, Prix",(Article,)).fetchall()
     Data = tabulate(rows)
     return Data
 
