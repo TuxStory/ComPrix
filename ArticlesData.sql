@@ -457,4 +457,6 @@ INSERT INTO ArticlesData VALUES('29/03/2023','Carrefour','SoupeTomBou','1.59');
 INSERT INTO ArticlesData VALUES('29/03/2023','Carrefour','Croutons','1.79');
 INSERT INTO ArticlesData VALUES('29/03/2023','Carrefour','Framboise 125gr','2.99');
 INSERT INTO ArticlesData VALUES('29/03/2023','Carrefour','Ampoule GU10 50W','1.49');
+INSERT INTO ArticlesData VALUES('03/04/2023','Match','SauceTomateLeg','1.89');
+INSERT INTO ArticlesData VALUES('03/04/2023','Match','Galler Baton Blanc','1.69');
 COMMIT;
