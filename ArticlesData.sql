@@ -464,4 +464,11 @@ INSERT INTO ArticlesData VALUES('06/04/2023','Colruyt','Harrys Mie Complet','4.6
 INSERT INTO ArticlesData VALUES('06/04/2023','Carrefour Express','Pain Mie Blanc','2.69');
 INSERT INTO ArticlesData VALUES('06/04/2023','Carrefour Express','Pizza Hawai','2.15');
 INSERT INTO ArticlesData VALUES('06/04/2023','Carrefour Express','Viennoiserie','0.99');
+INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Lasagne','1.59');
+INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Phil Light 320','3.09');
+INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Cheddar','3');
+INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Biscuit Breton','1.09');
+INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Chips Ancienne 6X30g','1.59');
+INSERT INTO ArticlesData VALUES('08/04/2023','Action','Bueno 3-Pack','2.49');
+INSERT INTO ArticlesData VALUES('08/04/2023','Action','Milka100gr','1.23');
 COMMIT;
