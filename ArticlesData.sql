@@ -471,4 +471,10 @@ INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Biscuit Breton','1.
 INSERT INTO ArticlesData VALUES('08/04/2023','Intermarché','Chips Ancienne 6X30g','1.59');
 INSERT INTO ArticlesData VALUES('08/04/2023','Action','Bueno 3-Pack','2.49');
 INSERT INTO ArticlesData VALUES('08/04/2023','Action','Milka100gr','1.23');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','EverydayGalette','1.42');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','FromageTrMou','1.59');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','Phil Light 320','2.95');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','Madeleines 250g','1.37');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','BananeKG','1.99');
+INSERT INTO ArticlesData VALUES('12/04/2023','Colruyt','EveryDay Spaghetti','0.65');
 COMMIT;
