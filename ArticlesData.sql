@@ -483,4 +483,16 @@ INSERT INTO ArticlesData VALUES('19/04/2023','Delhaize','Heinz Tomato 342','2.05
 INSERT INTO ArticlesData VALUES('19/04/2023','Delhaize','Harrys Mie Blanc','3.75');
 INSERT INTO ArticlesData VALUES('19/04/2023','Spar','Madeleines 250g','1.63');
 INSERT INTO ArticlesData VALUES('19/04/2023','Spar','Pain Brioc Hamburger','1.89');
+INSERT INTO ArticlesData VALUES('20/04/2023','Match','BiscotteBio','1.95');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Jus Pomme 1L','1.09');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Jus Orange 1L','1.19');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','SoupeTomBou','1.59');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','ravioli','1.59');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Cote d''or 400g','3.85');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','RaisinRouge','2.39');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','BananeKG','2.09');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Sandwich','0.49');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Lasagne','2.29');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Phil Light 320','3.65');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Mouchoirs','0.79');
 COMMIT;
