@@ -542,4 +542,6 @@ INSERT INTO ArticlesData VALUES('27/05/2023','Intermarché','Chips Ancienne 6X30
 INSERT INTO ArticlesData VALUES('27/05/2023','Intermarché','Pain Mie Blanc','1.79');
 INSERT INTO ArticlesData VALUES('27/05/2023','Intermarché','Lays 45gr','0.69');
 INSERT INTO ArticlesData VALUES('27/05/2023','Intermarché','Framboise 125gr','3.49');
+INSERT INTO ArticlesData VALUES('31/05/2023','Spar','Kinder Pingui x4','2.47');
+INSERT INTO ArticlesData VALUES('31/05/2023','Spar','Everyday Chocolat Noir 200g','0.93');
 COMMIT;
