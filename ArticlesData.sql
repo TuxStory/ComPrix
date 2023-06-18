@@ -566,6 +566,6 @@ INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Lasagne','1.59');
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Kinder Pingui x4','2.29');
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Pringels imitation','1.39');
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Jambon 6tr','2.99');
-INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Teddy','1.49');
-INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bologn§se','1.59');
+INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Teddy','1.65');
+INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bologn§se','1.65');
 COMMIT;
