@@ -591,4 +591,7 @@ INSERT INTO ArticlesData VALUES('01/07/2023','Carrefour','FromageMou','1.35');
 INSERT INTO ArticlesData VALUES('01/07/2023','Carrefour','Mozzarella 125gr','0.79');
 INSERT INTO ArticlesData VALUES('01/07/2023','Carrefour','Emmental Tr','2.09');
 INSERT INTO ArticlesData VALUES('01/07/2023','Carrefour','Pain Mie Blanc','2.29');
+INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Framboise 125gr','2.99');
+INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Poivron Rouge','0.98');
 COMMIT;
