@@ -567,7 +567,7 @@ INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Kinder Pingui x4','
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Pringels imitation','1.39');
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Jambon 6tr','2.99');
 INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Teddy','1.65');
-INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bologn§se','1.65');
+INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bolognàse','1.65');
 INSERT INTO ArticlesData VALUES('17/06/2023','Action','Milka270gr','2.69');
 INSERT INTO ArticlesData VALUES('21/06/2023','Carrefour Express','Fanta Zero 33cl','1.10');
 INSERT INTO ArticlesData VALUES('23/06/2023','Carrefour','Pringels imitation','1.49');
@@ -594,4 +594,10 @@ INSERT INTO ArticlesData VALUES('01/07/2023','Carrefour','Pain Mie Blanc','2.29'
 INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Framboise 125gr','2.99');
 INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Kinder Pingui x4','2.29');
 INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Poivron Rouge','0.98');
+INSERT INTO ArticlesData VALUES('12/07/2023','Lidl','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('12/07/2023','Lidl','Snack Day Teddy','1.65');
+INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Snack Day Bolognèse','1.65');
+INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Lay''s Paprika 275g','1.99');
 COMMIT;
