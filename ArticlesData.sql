@@ -596,8 +596,15 @@ INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Kinder Pingui x4','2.29
 INSERT INTO ArticlesData VALUES('05/07/2023','Delhaize','Poivron Rouge','0.98');
 INSERT INTO ArticlesData VALUES('12/07/2023','Lidl','Pain Mie Blanc','1.19');
 INSERT INTO ArticlesData VALUES('12/07/2023','Lidl','Snack Day Teddy','1.65');
+INSERT INTO ArticlesData VALUES('12/07/2023','Intermarché','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('12/07/2023','Intermarché','TopBudget Fromage Rapé','1.59');
+INSERT INTO ArticlesData VALUES('12/07/2023','Intermarché','Pringels imitation','1.39');
+INSERT INTO ArticlesData VALUES('12/07/2023','Intermarché','Lasagne','1.59');
 INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Snack Day Bolognèse','1.65');
 INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Kinder Pingui x4','2.29');
 INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Pain Mie Blanc','1.19');
 INSERT INTO ArticlesData VALUES('17/07/2023','Lidl','Lay''s Paprika 275g','1.99');
+INSERT INTO ArticlesData VALUES('17/07/2023','Intermarché','BiscotteBio','1.79');
+INSERT INTO ArticlesData VALUES('17/07/2023','Intermarché','Tortellini 500gr','0.85');
+INSERT INTO ArticlesData VALUES('17/07/2023','Intermarché','TB Saucisses Frankfurt','1.49');
 COMMIT;
