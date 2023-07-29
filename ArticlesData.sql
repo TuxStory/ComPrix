@@ -626,4 +626,11 @@ INSERT INTO ArticlesData VALUES('25/07/2023','Intermarché','Pain Mie Complet','
 INSERT INTO ArticlesData VALUES('25/07/2023','Action','Milka Choco Wafer','1.99');
 INSERT INTO ArticlesData VALUES('25/07/2023','Action','Milka270gr','2.69');
 INSERT INTO ArticlesData VALUES('25/07/2023','Action','Heinz Tomato 1k35','3.75');
+INSERT INTO ArticlesData VALUES('27/07/2023','Spar','shampoing oranger','0.54');
+INSERT INTO ArticlesData VALUES('27/07/2023','Spar','Milka100gr','1.66');
+INSERT INTO ArticlesData VALUES('27/07/2023','Spar','Madeleines 250g','1.52');
+INSERT INTO ArticlesData VALUES('27/07/2023','Colruyt','shampoing oranger','0.50');
+INSERT INTO ArticlesData VALUES('27/07/2023','Delhaize','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('28/07/2023','Match','Framboise 125gr','3.99');
+INSERT INTO ArticlesData VALUES('28/07/2023','Match','Emmental Tr','2.15');
 COMMIT;
