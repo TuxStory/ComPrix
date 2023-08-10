@@ -642,4 +642,6 @@ INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Pain Mie Blanc','1.
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Pringels imitation','1.45');
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Biscuit Palmier','0.89');
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Ravioli','1.99');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Coca 33cl','0.89');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Cote d''or 400g','3.95');
 COMMIT;
