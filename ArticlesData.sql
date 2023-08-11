@@ -644,4 +644,10 @@ INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Biscuit Palmier','0
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Ravioli','1.99');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','Coca 33cl','0.89');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','Cote d''or 400g','3.95');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Galler Baton Blanc','1.89');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Emmental Tr','2.15');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','BiscotteBio','1.94');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','BananeKG','1.58');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Iceberg','0.97');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Pain Mie Blanc','2.25');
 COMMIT;
