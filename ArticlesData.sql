@@ -244,8 +244,8 @@ INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Harrys Mie Complet','4.
 INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Pain Toast Blanc','0.99');
 INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Emmental Tr','1.99');
 INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Phil Light 320','3.09');
-INSERT INTO ArticlesData VALUES('15/07/2022','Delhaize','Patate Douce Chili','2.00');
-INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Patate Douce Chili','2.25');
+INSERT INTO ArticlesData VALUES('15/07/2022','Delhaize','Mousse Patate Douce Chili','2.00');
+INSERT INTO ArticlesData VALUES('07/12/2022','Delhaize','Mousse Patate Douce Chili','2.25');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Milka100gr','1.35');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','Croutons','1.55');
 INSERT INTO ArticlesData VALUES('17/12/2022','Carrefour','SoupeTomBou','1.25');
@@ -683,4 +683,9 @@ INSERT INTO ArticlesData VALUES('18/08/2023','Spar','Biscuits Marguerittes','4.0
 INSERT INTO ArticlesData VALUES('18/08/2023','Spar','shampoing oranger','0.54');
 INSERT INTO ArticlesData VALUES('18/08/2023','Spar','BananeKG','2.55');
 INSERT INTO ArticlesData VALUES('18/08/2023','Deli','Carette Vanille','11.95');
+INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Snack Day Teddy','1.49');
+INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Culinea CroFroCube ','2.99');
+INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Tomates Snack','2.99');
+INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Iceberg','0.99');
 COMMIT;

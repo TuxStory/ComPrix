@@ -241,8 +241,8 @@ Date,Enseigne,Article,Prix
 07/12/2022,Delhaize,Pain Toast Blanc,0.99
 07/12/2022,Delhaize,Emmental Tr,1.99
 07/12/2022,Delhaize,Phil Light 320,3.09
-15/07/2022,Delhaize,Patate Douce Chili,2.00
-07/12/2022,Delhaize,Patate Douce Chili,2.25
+15/07/2022,Delhaize,Mousse Patate Douce Chili,2.00
+07/12/2022,Delhaize,Mousse Patate Douce Chili,2.25
 17/12/2022,Carrefour,Milka100gr,1.35
 17/12/2022,Carrefour,Croutons,1.55
 17/12/2022,Carrefour,SoupeTomBou,1.25
@@ -680,3 +680,8 @@ Date,Enseigne,Article,Prix
 18/08/2023,Spar,shampoing oranger,0.54
 18/08/2023,Spar,BananeKG,2.55
 18/08/2023,Deli,Carette Vanille,11.95
+22/08/2023,Lild,Pain Mie Blanc,1.19
+22/08/2023,Lild,Snack Day Teddy,1.49
+22/08/2023,Lild,Culinea CroFroCube ,2.99
+22/08/2023,Lild,Tomates Snack,2.99
+22/08/2023,Lild,Iceberg,0.99
