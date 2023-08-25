@@ -512,7 +512,7 @@ INSERT INTO ArticlesData VALUES('17/05/2023','Spar','Pain Brioc Hamburger','2.06
 INSERT INTO ArticlesData VALUES('17/05/2023','Spar','Madeleines 250g','1.52');
 INSERT INTO ArticlesData VALUES('17/05/2023','Carrefour Express','BananeKG','1.49');
 INSERT INTO ArticlesData VALUES('20/05/2023','Lidl','Snack Day Teddy','1.49');
-INSERT INTO ArticlesData VALUES('20/05/2023','Lidl','Snack Day Bologn§se','1.59');
+INSERT INTO ArticlesData VALUES('20/05/2023','Lidl','Snack Day Bolognèse','1.59');
 INSERT INTO ArticlesData VALUES('20/05/2023','Lidl','Pistaches','3.99');
 INSERT INTO ArticlesData VALUES('20/05/2023','Lidl','Noix & noisettes','1.99');
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Biscuit Breton','1.15');
@@ -567,7 +567,7 @@ INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Kinder Pingui x4','
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Pringels imitation','1.39');
 INSERT INTO ArticlesData VALUES('17/06/2023','Intermarché','Jambon 6tr','2.99');
 INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Teddy','1.65');
-INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bolognàse','1.65');
+INSERT INTO ArticlesData VALUES('17/06/2023','Lidl','Snack Day Bolognèse','1.65');
 INSERT INTO ArticlesData VALUES('17/06/2023','Action','Milka270gr','2.69');
 INSERT INTO ArticlesData VALUES('21/06/2023','Carrefour Express','Fanta Zero 33cl','1.10');
 INSERT INTO ArticlesData VALUES('23/06/2023','Carrefour','Pringels imitation','1.49');
@@ -688,4 +688,9 @@ INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Snack Day Teddy','1.49');
 INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Culinea CroFroCube ','2.99');
 INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Tomates Snack','2.99');
 INSERT INTO ArticlesData VALUES('22/08/2023','Lild','Iceberg','0.99');
+INSERT INTO ArticlesData VALUES('24/08/2023','Delhaize','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('24/08/2023','Delhaize','Emmental Tr','2.09');
+INSERT INTO ArticlesData VALUES('24/08/2023','Delhaize','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('24/08/2023','Delhaize','Mousse Patate Douce Chili','2.29');
+INSERT INTO ArticlesData VALUES('24/08/2023','Delhaize','Framboise 125gr','2.99');
 COMMIT;
