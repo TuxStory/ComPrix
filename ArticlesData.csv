@@ -351,7 +351,7 @@ Date,Enseigne,Article,Prix
 27/01/2023,Colruyt,Milka100gr,1.25
 01/02/2023,Carrefour,Knorr pastasnack,1.95
 01/02/2023,Carrefour,Sandwich,0.49
-01/02/2023,Carrefour,Cote d'or 400gr,3.97
+01/02/2023,Carrefour,Côte d'or 400gr,3.97
 01/02/2023,Action,Milka100gr,1.23
 01/02/2023,Action,Bueno 3-Pack,2.49
 02/02/2023,Shop&Go Delhaize,Knorr pastasnack,2.60
@@ -360,7 +360,7 @@ Date,Enseigne,Article,Prix
 02/02/2023,Shop&Go Delhaize,Patate Romarin,1.50
 08/02/2023,Colruyt,FromageTrMou,1.19
 08/02/2023,Colruyt,Harrys Mie Complet,4.65
-08/02/2023,Colruyt,Cote d'or 400gr,3.39
+08/02/2023,Colruyt,Côte d'or 400gr,3.39
 08/02/2023,Colruyt,Everyday orange pet 50cl,0.315
 08/02/2023,Colruyt,Jus Orange 1L,0.99
 08/02/2023,Colruyt,BananeKG,1.29
@@ -392,7 +392,7 @@ Date,Enseigne,Article,Prix
 21/02/2023,Carrefour,BiscotteComp,1.79
 21/02/2023,Carrefour,FromageTrMou,1.29
 21/02/2023,Carrefour,Ampoule GU10 50W,1.29
-21/02/2023,Carrefour,Cote d'or 400gr,3.97
+21/02/2023,Carrefour,Côte d'or 400gr,3.97
 21/02/2023,Carrefour,Phil Light 320,3.25
 21/02/2023,Carrefour,Croutons,1.55
 21/02/2023,Carrefour,RizMedit250,1.49
@@ -438,7 +438,7 @@ Date,Enseigne,Article,Prix
 29/03/2023,Carrefour,Fanta Zero 33cl,0.95
 29/03/2023,Carrefour,Nutella 200gr,2.49
 29/03/2023,Carrefour,Kinder Maxi,2.05
-29/03/2023,Carrefour,Cote d'or 400g,3.85
+29/03/2023,Carrefour,Côte d'or 400g,3.85
 29/03/2023,Carrefour,Lu Crackers,2.35
 29/03/2023,Carrefour,Car CrackersX3,1.75
 29/03/2023,Carrefour,Emmental Tr,1.85
@@ -485,7 +485,7 @@ Date,Enseigne,Article,Prix
 26/04/2023,Carrefour,Jus Orange 1L,1.19
 26/04/2023,Carrefour,SoupeTomBou,1.59
 26/04/2023,Carrefour,ravioli,1.59
-26/04/2023,Carrefour,Cote d'or 400g,3.85
+26/04/2023,Carrefour,Côte d'or 400g,3.85
 26/04/2023,Carrefour,RaisinRouge,2.39
 26/04/2023,Carrefour,BananeKG,2.09
 26/04/2023,Carrefour,Sandwich,0.49
@@ -520,7 +520,7 @@ Date,Enseigne,Article,Prix
 20/05/2023,Intermarché,Lasagne,1.59
 20/05/2023,Intermarché,Huile Olive 1L,5.49
 20/05/2023,Intermarché,Chips Ancienne 6X30g,1.59
-20/05/2023,Intermarché,Cote d'or 400g,3.45
+20/05/2023,Intermarché,Côte d'or 400g,3.45
 20/05/2023,Intermarché,Cracotte,0.99
 20/05/2023,Intermarché,Mouchoirs,0.99
 24/05/2023,Match,Fanta Zero 33cl,0.90
@@ -640,7 +640,7 @@ Date,Enseigne,Article,Prix
 04/08/2023,Intermarché,Biscuit Palmier,0.89
 04/08/2023,Intermarché,Ravioli,1.99
 10/08/2023,Match,Coca 33cl,0.89
-10/08/2023,Match,Cote d'or 400g,3.95
+10/08/2023,Match,Côte d'or 400g,3.95
 10/08/2023,Match,Galler Baton Blanc,1.89
 10/08/2023,Match,Emmental Tr,2.15
 10/08/2023,Match,BiscotteBio,1.94
@@ -669,7 +669,7 @@ Date,Enseigne,Article,Prix
 16/08/2023,Colruyt,Mouchoirs,0.79
 16/08/2023,Colruyt,Cracotte,0.99
 16/08/2023,Colruyt,Milka100gr,1.59
-16/08/2023,Colruyt,Cote d'or 400gr,2.41
+16/08/2023,Colruyt,Côte d'or 400gr,2.41
 16/08/2023,Colruyt,PimpsOrange,1.16
 16/08/2023,Colruyt,EverydayGalette,1.45
 16/08/2023,Colruyt,Madeleines 250g,1.39
@@ -698,3 +698,14 @@ Date,Enseigne,Article,Prix
 30/08/2023,Delhaize,Poivron Rouge,0.64
 30/08/2023,Delhaize,Gauffres Mini Suzy,1.89
 30/08/2023,Delhaize,Oeufs12,2.55
+02/09/2023,Action,Milka270gr,2.69
+02/09/2023,Action,Heinz Tomato 1k35,3.75
+02/09/2023,Action,Panasonic Pile AA,2.99
+02/09/2023,Intermarché,FromageTrMou,1.19
+02/09/2023,Intermarché,TopBudget Fromage Rapé,1.65
+02/09/2023,Intermarché,CracotteLu,2.65
+02/09/2023,Intermarché,BiscotteBio,1.99
+02/09/2023,Intermarché,Pringels imitation,1.45
+02/09/2023,Intermarché,Kinder Joy 1x,1.29
+02/09/2023,Intermarché,Côte d'or 400gr,3.47
+02/09/2023,Intermarché,Biscuit Breton,1.09
