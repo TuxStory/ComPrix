@@ -488,7 +488,7 @@ INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Jus Pomme 1L','1.09');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Jus Orange 1L','1.19');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','SoupeTomBou','1.59');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','ravioli','1.59');
-INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Côte d''or 400g','3.85');
+INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Côte d''or 400gr','3.85');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','RaisinRouge','2.39');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','BananeKG','2.09');
 INSERT INTO ArticlesData VALUES('26/04/2023','Carrefour','Sandwich','0.49');
@@ -523,7 +523,7 @@ INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Pain Mie Blanc','1.
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Lasagne','1.59');
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Huile Olive 1L','5.49');
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Chips Ancienne 6X30g','1.59');
-INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Côte d''or 400g','3.45');
+INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Côte d''or 400gr','3.45');
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Cracotte','0.99');
 INSERT INTO ArticlesData VALUES('20/05/2023','Intermarché','Mouchoirs','0.99');
 INSERT INTO ArticlesData VALUES('24/05/2023','Match','Fanta Zero 33cl','0.90');
@@ -643,7 +643,7 @@ INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Pringels imitation'
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Biscuit Palmier','0.89');
 INSERT INTO ArticlesData VALUES('04/08/2023','Intermarché','Ravioli','1.99');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','Coca 33cl','0.89');
-INSERT INTO ArticlesData VALUES('10/08/2023','Match','Côte d''or 400g','3.95');
+INSERT INTO ArticlesData VALUES('10/08/2023','Match','Côte d''or 400gr','3.95');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','Galler Baton Blanc','1.89');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','Emmental Tr','2.15');
 INSERT INTO ArticlesData VALUES('10/08/2023','Match','BiscotteBio','1.94');
