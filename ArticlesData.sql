@@ -712,4 +712,10 @@ INSERT INTO ArticlesData VALUES('02/09/2023','Intermarché','Pringels imitation'
 INSERT INTO ArticlesData VALUES('02/09/2023','Intermarché','Kinder Joy 1x','1.29');
 INSERT INTO ArticlesData VALUES('02/09/2023','Intermarché','Côte d''or 400gr','3.47');
 INSERT INTO ArticlesData VALUES('02/09/2023','Intermarché','Biscuit Breton','1.09');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','SoupeTomBou','1.69');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','Car CrackersX3','1.75');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','Croutons','1.75');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','Kinder Joy 1x','1.32');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','Framboise 125gr','2.59');
+INSERT INTO ArticlesData VALUES('02/09/2023','Carrefour','Ampoule GU10 50W','1.49');
 COMMIT;
