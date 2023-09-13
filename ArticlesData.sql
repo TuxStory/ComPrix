@@ -738,4 +738,13 @@ INSERT INTO ArticlesData VALUES('08/09/2023','Carrefour','6x20cl jus orange','2.
 INSERT INTO ArticlesData VALUES('08/09/2023','Carrefour','Kinder Joy 1x','1.32');
 INSERT INTO ArticlesData VALUES('08/09/2023','Carrefour','8 nems porc','3.49');
 INSERT INTO ArticlesData VALUES('08/09/2023','Carrefour','MacaroniSachetBleu','1.85');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Emmental Tr','2.09');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Kinder Pingui x4','2.29');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Chocolat Noir 200g','0.85');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Papier toilette 4C 6R','2.55');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Gosettes Abrico Triangles','1.69');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Kinder Joy 1x','1.29');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Carottes 500gr','1.59');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('13/09/2023','Delhaize','Mozzarella 125gr','0.79');
 COMMIT;
