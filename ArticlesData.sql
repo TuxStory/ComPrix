@@ -757,4 +757,16 @@ INSERT INTO ArticlesData VALUES('20/09/2023','Delhaize','Chocolat Noir 200g','0.
 INSERT INTO ArticlesData VALUES('20/09/2023','Delhaize','Lays 45gr','0.75');
 INSERT INTO ArticlesData VALUES('20/09/2023','Delhaize','Jambon Roti','3.89');
 INSERT INTO ArticlesData VALUES('20/09/2023','Delhaize','Cracotte','0.99');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Evrard Bintje 3kg','3.69');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Becel Pro Activ','4.15');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Lingettes nettoyantes','1.49');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Mozzarella 125gr','0.79');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Iglo Fish Sticks','4.49');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Huile Olive 1L','4.99');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Framboise 125gr','3.59');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','TopBudget Fromage Rapé','1.59');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Pringels imitation','1.39');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Côte d''or 400gr','3.45');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Lays 45gr','0.74');
+INSERT INTO ArticlesData VALUES('23/09/2023','Intermarché','Lait écrémé 6x50cl','3.99');
 COMMIT;
