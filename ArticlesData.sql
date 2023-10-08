@@ -784,4 +784,14 @@ INSERT INTO ArticlesData VALUES('29/09/2023','Match','Cora Chips Ancien','1.43')
 INSERT INTO ArticlesData VALUES('01/10/2023','Match','Kinder Joy 1x','1.58');
 INSERT INTO ArticlesData VALUES('01/10/2023','Match','Emmental Tr','2.15');
 INSERT INTO ArticlesData VALUES('01/10/2023','Match','Croquettes au four','1.55');
+INSERT INTO ArticlesData VALUES('04/10/2023','Action','7up 33cl','0.49');
+INSERT INTO ArticlesData VALUES('04/10/2023','Action','smarties 3x34','1.19');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','Kinder Joy 1x','1.32');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','Look-o-look tapis','2.79');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','Salade Icberg 240gr','1.59');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','carrefour vinaigrette','2.19 ');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','carrefour croquette fromage','2.19');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','Gauffres Mini Suzy','1.95');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','EverydayGalette','1.65');
+INSERT INTO ArticlesData VALUES('06/10/2023','Carrefour','TicTac T100','2.15');
 COMMIT;
