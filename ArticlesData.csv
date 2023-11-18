@@ -602,7 +602,7 @@ Date,Enseigne,Article,Prix
 17/07/2023,Lidl,Pain Mie Blanc,1.19
 17/07/2023,Lidl,Lay's Paprika 275g,1.99
 17/07/2023,Intermarché,BiscotteBio,1.79
-17/07/2023,Intermarché,Tortellini 500gr,0.85
+17/07/2023,Intermarché,Tortellini 500gr,1.85
 17/07/2023,Intermarché,TB Saucisses Frankfurt,1.49
 14/07/2023,Carrefour Express,Framboise 125gr,2.00
 14/07/2023,Carrefour Express,Pain Mie Blanc,2.69
@@ -812,6 +812,77 @@ Date,Enseigne,Article,Prix
 11/10/2023,Delhaize,Emmental Tr,2.09
 11/10/2023,Delhaize,Tortelini Ric-Epi,2.29
 11/10/2023,Delhaize,Pain Mie Blanc,1.19
+14/10/2023,Match,Mccain AirFryer,4.95
+14/10/2023,Match,Mora Viandelle 4x7,4.95
+14/10/2023,Match,Mora Nacho Cheese,5.29
+14/10/2023,Match,BiscotteBio,1.94
+14/10/2023,Match,Tic Tac Lime&Orange,2.15
+14/10/2023,Match,Lays 45gr,0.78
+18/10/2023,Delhaize,Pain Mie Blanc,1.19
+18/10/2023,Delhaize,Mouchoirs,0.79
+18/10/2023,Delhaize,Emmental Tr,2.09
+18/10/2023,Delhaize,M&MS Peanuts 5P,4.65
+18/10/2023,Delhaize,Harrys MOEL Complet,2.39
+18/10/2023,Delhaize,Framboise 125gr,2.89
 19/10/2023,Burger King,Big King Solo,5.20
 19/10/2023,Spar,Biscuits Marguerittes,4.00
 19/10/2023,Spar,Madeleines 250grr,1.52
+21/10/2023,Lidl,Snack Day Teddy,1.49
+21/10/2023,Lidl,Biz Biz Rouleaux Printemps,3.69
+21/10/2023,Lidl,Biz Biz Batonnet Poulet,3.19
+21/10/2023,Lidl,Biz Biz Croquette Fromage,2.15
+21/10/2023,Lidl,Snack Day Bolognèse,1.49
+21/10/2023,Action,ferum mousse raser,1.19
+21/10/2023,Action,Tapis Souris XXL,3.99
+21/10/2023,Action,smarties 3x34,1.39
+21/10/2023,Action,Milka270gr,2.89
+25/10/2023,Intermarché,FromageTrMou,1.29
+25/10/2023,Intermarché,Iceberg,0.80
+25/10/2023,Intermarché,Gauffres Mini Suzy,1.95
+25/10/2023,Intermarché,Phil Light 320,3.05
+25/10/2023,Intermarché,Lasagne,1.59
+25/10/2023,Intermarché,Tic Tac Lime&Orange,2.15
+25/10/2023,Intermarché,Cent Wafer X6,3.20
+26/10/2023,LeSouq,Burger Pain X6,1.99
+26/10/2023,LeSouq,Kinder Pingui 8pc,3.30
+26/10/2023,LeSouq,La vache qui rit 32pc,4.99
+26/10/2023,LeSouq,Tic Tac,1
+31/10/2023,Delhaize,Pain Mie Blanc,1.19
+31/10/2023,Delhaize,Mouchoirs,0.79
+31/10/2023,Delhaize,Emmental Tr,2.09
+31/10/2023,Delhaize,M&MS Peanuts 5P,4.65
+31/10/2023,Delhaize,Harrys MOEL Complet,2.39
+31/10/2023,Delhaize,Pizza Hawai,1.69
+31/10/2023,Delhaize,Vitabis Lu,1.99
+31/10/2023,Delhaize,BananeKG,1.69
+31/10/2023,Delhaize,RaisinRouge,2.19
+02/11/2023,Intermarché,Mouchoirs,0.99
+02/11/2023,Intermarché,Fitness 450gr,5.65
+02/11/2023,Intermarché,Lait écrémé 6x50cl,4.19
+02/11/2023,Intermarché,Galler Baton Blanc,1.65
+02/11/2023,Intermarché,Canderel,3.45
+02/11/2023,Colruyt,FromageTrMou,1.69
+02/11/2023,Colruyt,Tortellini 500gr,2.45
+02/11/2023,Colruyt,Lays 45gr,0.67
+02/11/2023,Colruyt,EverydayGalette,1.40
+02/11/2023,Colruyt,Tic Tac Lime&Orange,2.15
+02/11/2023,Colruyt,Biscuits Marguerittes,3.60
+02/11/2023,Colruyt,carrés confitures abricots,1.41
+02/11/2023,Colruyt,Miel liquide 350,2.19
+04/11/2023,Match,Belvita Frites,4.69
+04/11/2023,Match,BiscotteBio,1.94
+04/11/2023,Match,Croquettes au four,1.55
+10/11/2023,Delhaize,Vitabis Lu,1.99
+10/11/2023,Delhaize,Phil Light 320,3.09
+10/11/2023,Delhaize,Framboise 125gr,2.99
+10/11/2023,Delhaize,RaisinRouge,2.39
+10/11/2023,Delhaize,BetterFood 175gr,1.55
+10/11/2023,Delhaize,Pain Mie Blanc,1.25
+10/11/2023,Delhaize,PDT charlotte 2kg,4.39
+15/11/2023,Carrefour,SoupeTomBou,1.69
+15/11/2023,Carrefour,côte d'or double lait baton,2.75
+15/11/2023,Carrefour,Cecemel 1L,2.59
+15/11/2023,Carrefour,Tortellini 250gr,1.99
+15/11/2023,Carrefour,Coca 15cl,0.70
+15/11/2023,Carrefour,Sandwich,0.49
+15/11/2023,Carrefour,Pesto Rosso,1.79
