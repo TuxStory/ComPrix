@@ -889,4 +889,8 @@ INSERT INTO ArticlesData VALUES('15/11/2023','Carrefour','Tortellini 250gr','1.9
 INSERT INTO ArticlesData VALUES('15/11/2023','Carrefour','Coca 15cl','0.70');
 INSERT INTO ArticlesData VALUES('15/11/2023','Carrefour','Sandwich','0.49');
 INSERT INTO ArticlesData VALUES('15/11/2023','Carrefour','Pesto Rosso','1.79');
+INSERT INTO ArticlesData VALUES('18/11/2023','Aldi','Ruban acidules 400G','2.99');
+INSERT INTO ArticlesData VALUES('18/11/2023','Aldi','Framboise 125gr','2.59');
+INSERT INTO ArticlesData VALUES('18/11/2023','Aldi','Snack Au Lait 6x','1.45');
+INSERT INTO ArticlesData VALUES('22/11/2023','Delhaize','Kinder Maxi','3.49');
 COMMIT;
