@@ -925,4 +925,7 @@ INSERT INTO ArticlesData VALUES('29/11/2023','Spar','Chocolat Noir 200g','0.91')
 INSERT INTO ArticlesData VALUES('29/11/2023','Spar','Madeleines 250gr','1.65');
 INSERT INTO ArticlesData VALUES('29/11/2023','Spar','Nic-Nac 500g','1.04');
 INSERT INTO ArticlesData VALUES('29/11/2023','Delhaize','Chocolat Noir 200g','1.99');
+INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Fanta Zero 33cl','0.83');
+INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Lays 45gr','0.65');
+INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Lays 45gr','0.69');
 COMMIT;

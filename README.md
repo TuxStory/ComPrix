@@ -22,3 +22,4 @@ Exemple : `17/02/2022,Carrefour,Coca 33cl,0.74`
 - Aldi
 - Intermarché
 - Shop&Go Delhaize
+- Okay
