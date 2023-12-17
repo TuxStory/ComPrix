@@ -928,4 +928,5 @@ INSERT INTO ArticlesData VALUES('29/11/2023','Delhaize','Chocolat Noir 200g','1.
 INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Fanta Zero 33cl','0.83');
 INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Lays 45gr','0.65');
 INSERT INTO ArticlesData VALUES('02/12/2023','Okay','Lays 45gr','0.69');
+INSERT INTO ArticlesData VALUES('16/12/2023','Colruyt','PimpsOrange','1.16');
 COMMIT;
