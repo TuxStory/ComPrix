@@ -938,4 +938,13 @@ INSERT INTO ArticlesData VALUES('16/12/2023','Colruyt','EverydayGalette','1.58')
 INSERT INTO ArticlesData VALUES('16/12/2023','Colruyt','Madeleines 250gr','1.72');
 INSERT INTO ArticlesData VALUES('16/12/2023','Colruyt','FromageTrMou','1.74');
 INSERT INTO ArticlesData VALUES('16/12/2023','Colruyt','Devos Mayo citron 450ml','3.49');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Jus Orange 1L','0.99');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Jus Pomme 1L','0.83');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Ravioli','1.99');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','FromageTrMou','1.74');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Milka100gr','1.39');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Mouchoirs','0.79');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','Biscuits Marguerittes','4.00');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','BetterFood 175gr','1.55');
+INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','petits pois carottes 400gr','1.05');
 COMMIT;
