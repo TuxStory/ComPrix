@@ -950,7 +950,7 @@ INSERT INTO ArticlesData VALUES('20/12/2023','Colruyt','petits pois carottes 400
 INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Lamsagne','1.59');
 INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','M&Ms Imitation','1.99');
 INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Baguette Molle','1.58');
-INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Snack Day Teddy','1.49');
+INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Snack Day Teddy','1.25');
 INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Kinder x4','1.09');
 INSERT INTO ArticlesData VALUES('21/12/2023','Aldi','Gateau Chocolat Moelleux','4.99');
 COMMIT;
