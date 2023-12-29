@@ -962,4 +962,7 @@ INSERT INTO ArticlesData VALUES('27/12/2023','Carrefour','Car CrackersX3','1.99'
 INSERT INTO ArticlesData VALUES('27/12/2023','Carrefour','Cheddar','3');
 INSERT INTO ArticlesData VALUES('27/12/2023','Carrefour','Saucisse Viennoise','1.49');
 INSERT INTO ArticlesData VALUES('27/12/2023','Carrefour','8 nems porc','3.49');
+INSERT INTO ArticlesData VALUES('27/12/2023','Carrefour','RizMedit250','1.49');
+INSERT INTO ArticlesData VALUES('29/12/2023','Spar','RizMedit250','1.60');
+INSERT INTO ArticlesData VALUES('29/12/2023','Spar','Pain Brioc Hamburger','2.06');
 COMMIT;
