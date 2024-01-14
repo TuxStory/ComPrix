@@ -974,4 +974,8 @@ INSERT INTO ArticlesData VALUES('10/01/2024','Delhaize','33cl jus de pomme','0.3
 INSERT INTO ArticlesData VALUES('10/01/2024','Delhaize','côte d''or double lait baton','1.29');
 INSERT INTO ArticlesData VALUES('10/01/2024','Delhaize','BetterFood 175gr','1.55');
 INSERT INTO ArticlesData VALUES('10/01/2024','Delhaize','Harrys MOEL Complet','2.39');
+INSERT INTO ArticlesData VALUES('14/01/2024','Match','Igloo fishticks 10','3.89');
+INSERT INTO ArticlesData VALUES('14/01/2024','Match','Cecemel 1L','2.79');
+INSERT INTO ArticlesData VALUES('14/01/2024','Match','Kinder Pingui x4','2.79');
+INSERT INTO ArticlesData VALUES('14/01/2024','Match','Salade Iceberg 100gr','1.99');
 COMMIT;
