@@ -978,4 +978,12 @@ INSERT INTO ArticlesData VALUES('14/01/2024','Match','Igloo fishticks 10','3.89'
 INSERT INTO ArticlesData VALUES('14/01/2024','Match','Cecemel 1L','2.79');
 INSERT INTO ArticlesData VALUES('14/01/2024','Match','Kinder Pingui x4','2.79');
 INSERT INTO ArticlesData VALUES('14/01/2024','Match','Salade Iceberg 100gr','1.99');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Biscuit Palmier','0.89');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Concombre','1.59');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Phil Light 320','3.05');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Framboise 125gr','2.89');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Lasagne','1.59');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Biscuit Breton','1.15');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Poivron Rouge','0.71');
+INSERT INTO ArticlesData VALUES('16/01/2023','Intermarché','Laitiere Pudding x4','2.99');
 COMMIT;
