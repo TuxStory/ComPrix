@@ -1016,5 +1016,6 @@ INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','Emmental Tr','2.09');
 INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','Vitalinea','3.55');
 INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','BetterFood 175gr','1.55');
 INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','Kinder 200gr','2.65');
-INSERT INTO ArticlesData VALUES('16/01/2024','Match','Laitiere Pudding x4','3.49');
+INSERT INTO ArticlesData VALUES('02/02/2024','Match','Laitiere Pudding x4','3.49');
+INSERT INTO ArticlesData VALUES('03/02/2024','Delhaize','Salade Américaine','5.49');
 COMMIT;
