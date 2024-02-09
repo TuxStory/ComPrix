@@ -1018,4 +1018,15 @@ INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','BetterFood 175gr','1.5
 INSERT INTO ArticlesData VALUES('02/02/2024','Carrefour','Kinder 200gr','2.65');
 INSERT INTO ArticlesData VALUES('02/02/2024','Match','Laitiere Pudding x4','3.49');
 INSERT INTO ArticlesData VALUES('03/02/2024','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','RaisinRouge','7.49');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Petites Crottes Delhaize','2.19');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Phil Light 320','3.09');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Pain Mie Blanc','1.25');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Emmental Tr','2.09');
+INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Mix 3 Raisins','2.85');
+INSERT INTO ArticlesData VALUES('08/02/2024','Match','Laitiere Pudding x4','2.99');
+INSERT INTO ArticlesData VALUES('06/02/2024','LeSouq','La vache qui rit','4.99');
+INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Burger Poulet x2','2.50');
+INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Kinder Maxi','2.55 ');
+INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','FromageTrMou','1.69');
 COMMIT;
