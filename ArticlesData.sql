@@ -1029,4 +1029,13 @@ INSERT INTO ArticlesData VALUES('06/02/2024','LeSouq','La vache qui rit','4.99')
 INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Burger Poulet x2','2.50');
 INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Kinder Maxi','2.55 ');
 INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','FromageTrMou','1.69');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Kinder Pingui x4','2.39');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Poivron Rouge','0.98');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','BananeKG','1.69');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Emmental Tr','2.09');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Framboise 125gr','2.99');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Pain Mie Blanc','1.25');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Pain Toast Complet','0.99');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','SauceTomateLeg','1.39');
+INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','SauceTomateLegMini','1.15');
 COMMIT;
