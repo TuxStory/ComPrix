@@ -1038,4 +1038,10 @@ INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Pain Mie Blanc','1.25')
 INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','Pain Toast Complet','0.99');
 INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','SauceTomateLeg','1.39');
 INSERT INTO ArticlesData VALUES('15/02/2024','Delhaize','SauceTomateLegMini','1.15');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Pain Mie Blanc','1.19');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Ricola citron','1.89');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Kinder T12','1.89');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Poulicroc','3.19');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Vindelles','4.99');
+INSERT INTO ArticlesData VALUES('17/02/2024','Lidl','Mélange de noix','2.99');
 COMMIT;
