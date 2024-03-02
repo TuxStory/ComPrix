@@ -1024,7 +1024,7 @@ INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Phil Light 320','3.09')
 INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Pain Mie Blanc','1.25');
 INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Emmental Tr','2.09');
 INSERT INTO ArticlesData VALUES('07/02/2024','Delhaize','Mix 3 Raisins','2.85');
-INSERT INTO ArticlesData VALUES('08/02/2024','Match','Laitiere Pudding x4','2.99');
+INSERT INTO ArticlesData VALUES('08/02/2024','Intermarché','Laitiere Pudding x4','2.99');
 INSERT INTO ArticlesData VALUES('06/02/2024','LeSouq','La vache qui rit','4.99');
 INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Burger Poulet x2','2.50');
 INSERT INTO ArticlesData VALUES('09/02/2024','Carrefour','Kinder Maxi','2.55 ');
@@ -1059,4 +1059,11 @@ INSERT INTO ArticlesData VALUES('26/02/2024','Spar','Chocolat Noir 200g','0.91')
 INSERT INTO ArticlesData VALUES('26/02/2024','Spar','Milka Sensations','1.07');
 INSERT INTO ArticlesData VALUES('26/02/2024','Delhaize','Kinder Pingui x4','2.39');
 INSERT INTO ArticlesData VALUES('26/02/2024','Delhaize','Brocoli','1.49');
+INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Ricola citron','1.49');
+INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Mélange de noix','2.9');
+INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Jambon 6tr','2.39');
+INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Poivron Rouge','0.89');
+INSERT INTO ArticlesData VALUES('01/03/2024','Carrefour Express','Pizza Hawai','2.15');
+INSERT INTO ArticlesData VALUES('01/03/2024','Colruyt','Phil Light 320','2.89');
+INSERT INTO ArticlesData VALUES('01/03/2024','Colruyt','Pudding x6','3.67');
 COMMIT;
