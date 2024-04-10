@@ -1102,4 +1102,10 @@ INSERT INTO ArticlesData VALUES('20/03/2024','CoMarché','Ricola citron','1.59')
 INSERT INTO ArticlesData VALUES('20/03/2024','CoMarché','San Pellegrino Limonala','0.98');
 INSERT INTO ArticlesData VALUES('20/03/2024','CoMarché','Ravioli','1.99');
 INSERT INTO ArticlesData VALUES('20/03/2024','CoMarché','Chocolat praliné Boni','1.99');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Phil Light 320','3.39');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Maïs doux 330','0.97');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Maïs doux 150','0.53 ');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Devos Mayo citron 550ml','2.25 ');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Mouchoirs','0.79');
+INSERT INTO ArticlesData VALUES('11/04/2024','CoMarché','Concombre','0.97');
 COMMIT;
