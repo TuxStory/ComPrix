@@ -1127,4 +1127,8 @@ INSERT INTO ArticlesData VALUES('24/04/2024','Carrefour','BiscotteBio','3.39');
 INSERT INTO ArticlesData VALUES('24/04/2024','Delhaize','RaisinRouge','2.59');
 INSERT INTO ArticlesData VALUES('24/04/2024','Delhaize','Pain Mie Blanc','1.25');
 INSERT INTO ArticlesData VALUES('24/04/2024','Delhaize','Noix & noisettes','2.99');
+INSERT INTO ArticlesData VALUES('28/04/2024','Delhaize','Kinder Joy 1x','1.35');
+INSERT INTO ArticlesData VALUES('28/04/2024','Lidl','Ricola citron','1.49');
+INSERT INTO ArticlesData VALUES('28/04/2024','Lidl','Mélange de noix','1.99');
+INSERT INTO ArticlesData VALUES('28/04/2024','Lidl','Noisettes','3.49');
 COMMIT;
