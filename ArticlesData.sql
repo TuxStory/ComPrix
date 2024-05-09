@@ -1059,7 +1059,7 @@ INSERT INTO ArticlesData VALUES('26/02/2024','Spar','Chocolat Noir 200g','0.91')
 INSERT INTO ArticlesData VALUES('26/02/2024','Spar','Milka Sensations','1.07');
 INSERT INTO ArticlesData VALUES('26/02/2024','Delhaize','Kinder Pingui x4','2.39');
 INSERT INTO ArticlesData VALUES('26/02/2024','Delhaize','Brocoli','1.49');
-INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Ricola ceitron','1.49');
+INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Ricola citron','1.49');
 INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Mélange de noix','2.9');
 INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Jambon 6tr','2.39');
 INSERT INTO ArticlesData VALUES('29/02/2024','Lidl','Poivron Rouge','0.89');
@@ -1141,8 +1141,19 @@ INSERT INTO ArticlesData VALUES('02/05/2024','CoMarché','fraises 500gr','4.18')
 INSERT INTO ArticlesData VALUES('02/05/2024','CoMarché','10x20cl jus orange','2.08');
 INSERT INTO ArticlesData VALUES('02/05/2024','CoMarché','Lu Crackers','2.05');
 INSERT INTO ArticlesData VALUES('02/05/2024','CoMarché','BananeKG','1.59');
+INSERT INTO ArticlesData VALUES('03/05/2024','Delhize','Kinder 200gr','2.65');
+INSERT INTO ArticlesData VALUES('03/05/2024','Delhize','Pain Mie Blanc','1.25');
+INSERT INTO ArticlesData VALUES('03/05/2024','Delhize','oignons frits','0.75');
 INSERT INTO ArticlesData VALUES('07/05/2024','CoMarché','Ricatto 250gr','0.99');
 INSERT INTO ArticlesData VALUES('07/05/2024','CoMarché','Carottes 1.5kg','2.34');
 INSERT INTO ArticlesData VALUES('07/05/2024','CoMarché','BetterFood 175gr','1.55');
 INSERT INTO ArticlesData VALUES('07/05/2024','CoMarché','7up Free 33cl','0.70');
+INSERT INTO ArticlesData VALUES('08/05/2024','Lidl','Kinder Joy 1x','1.39');
+INSERT INTO ArticlesData VALUES('08/05/2024','Lidl','Ricola citron','1.59');
+INSERT INTO ArticlesData VALUES('08/05/2024','Lidl','Noix & noisettes','1.99');
+INSERT INTO ArticlesData VALUES('08/05/2024','Lidl','Noisettes Italiennes','3.49');
+INSERT INTO ArticlesData VALUES('08/05/2024','Action','twix mini','1.69');
+INSERT INTO ArticlesData VALUES('08/05/2024','Action','Bueno 3-Pack','2.49');
+INSERT INTO ArticlesData VALUES('08/05/2024','Action','Kinder Maxi x4','1.49');
+INSERT INTO ArticlesData VALUES('08/05/2024','Action','Kinder100gr','1.29');
 COMMIT;
