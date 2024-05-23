@@ -1185,4 +1185,5 @@ INSERT INTO ArticlesData VALUES('22/05/2024','Carrefour','Kinder Bueno 4-Pack','
 INSERT INTO ArticlesData VALUES('22/05/2024','Carrefour','Milka Leo 6x','4.54');
 INSERT INTO ArticlesData VALUES('22/05/2024','Carrefour','Twix Mini 13x','3.85');
 INSERT INTO ArticlesData VALUES('22/05/2024','Carrefour','SoupeTomBou','1.49');
+INSERT INTO ArticlesData VALUES('22/05/2024','Carrefour','BiscotteBio','1.99');
 COMMIT;
