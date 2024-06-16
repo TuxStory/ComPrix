@@ -1201,7 +1201,7 @@ INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Feuilles Lasagne 250gr
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','sauce légumes grillés','1.12');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Pommes Jonagold 6','1.89');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Boni Nuggets Poulet','2.69');
-INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Pommes de terre rissolés','2.09');
+INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Boni Pommes de terre rissolés','2.09');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Nestlé Fitness dark Choco','5.93');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Heinz sauce Burger','2.19');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Lu Crackers','2.09');
@@ -1210,4 +1210,7 @@ INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','EverydayGalette','1.58
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Salami noisettes','2.89');
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Harrys Mie Complet','4.71');
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Boni Vermicelles noir 600gr','2.61');
+INSERT INTO ArticlesData VALUES('17/06/2024','CoMarché','Paté crême 170gr','1.63');
+INSERT INTO ArticlesData VALUES('17/06/2024','CoMarché','Chokotoff 1kg','9.43');
+INSERT INTO ArticlesData VALUES('17/06/2024','CoMarché','Pain noir','2.08');
 COMMIT;
