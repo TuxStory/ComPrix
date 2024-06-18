@@ -1207,6 +1207,15 @@ INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Heinz sauce Burger','2
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','Lu Crackers','2.09');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','shampoing oranger','0.52');
 INSERT INTO ArticlesData VALUES('18/05/2024','CoMarché','EverydayGalette','1.58');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','SoupeTomBou','1.49');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','Sandwich','0.49');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','Biscottes car','1.99');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','Emmental Tr','2.19');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','Pizza Hawai','1.99');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','Jambon 6tr','3.15');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','spa orange 40cl','1.20');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','cheetos goal','2.21');
+INSERT INTO ArticlesData VALUES('29/05/2024','Carrefour','kroupouc 70gr','1.29');
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Salami noisettes','2.89');
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Harrys Mie Complet','4.71');
 INSERT INTO ArticlesData VALUES('06/06/2024','CoMarché','Boni Vermicelles noir 600gr','2.61');
