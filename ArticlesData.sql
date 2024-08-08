@@ -1121,6 +1121,7 @@ INSERT INTO ArticlesData VALUES('15/04/2024','CoMarché','Petites Crottes','2.40
 INSERT INTO ArticlesData VALUES('18/04/2024','Delhaize','BiscotteBio','3.39');
 INSERT INTO ArticlesData VALUES('18/04/2024','Delhaize','SauceTomateLegMini','1.19');
 INSERT INTO ArticlesData VALUES('18/04/2024','Delhaize','SauceTomateLeg','1.39');
+INSERT INTO ArticlesData VALUES('18/04/2024','Delhaize','Sushi Crispy Poulet','7.50');
 INSERT INTO ArticlesData VALUES('18/04/2024','Delhaize','Pain Mie Blanc','1.25');
 INSERT INTO ArticlesData VALUES('18/04/2024','Aldi','Kinder Joy 1x','1.39');
 INSERT INTO ArticlesData VALUES('24/04/2024','Carrefour','BiscotteBio','3.39');
@@ -1254,4 +1255,8 @@ INSERT INTO ArticlesData VALUES('29/06/2024','Action','twix mini','1.98');
 INSERT INTO ArticlesData VALUES('29/06/2024','Action','Kinder100gr','1.57');
 INSERT INTO ArticlesData VALUES('27/07/2024','Carrefour Express','Pizza Hawai','1.50');
 INSERT INTO ArticlesData VALUES('27/07/2024','Delhaize','Pain Mie Blanc','1.29');
+INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Pain Mie Blanc','1.29');
+INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Kinder Maxi','3.65');
+INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Sushi Crispy Poulet','7.90');
 COMMIT;
