@@ -1271,4 +1271,10 @@ INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Pain Mie Blanc','1.29')
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Kinder Maxi','3.65');
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Salade Américaine','5.49');
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Sushi Crispy Poulet','7.90');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Sushi Crispy Poulet','7.90');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Chokotoff 500gr','4.59');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Emmental Tr','2.19');
+INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Kinder Pingui x4','2.39');
 COMMIT;
