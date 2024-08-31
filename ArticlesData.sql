@@ -1277,6 +1277,18 @@ INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Chokotoff 500gr','4.59'
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Salade Américaine','5.49');
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Emmental Tr','2.19');
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Kinder Pingui x4','2.39');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Cheddar','3');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Phil Light 320','2.99');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','BananeKG','2.15');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Mouchoirs','0.79');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Kinder Bueno 10','6.18');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Harrys Mie Complet','4.71');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Emmental Tr','3.28');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Boni Nuggets Poulet','2.69');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Iceberg','0.87');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','pudding vanille 6x','3.69');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','Papier toilette 4C 6R','4.56');
+INSERT INTO ArticlesData VALUES('26/08/2024','CoMarché','EverydayGalette','0.94');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Framboise 125gr','2.73');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Gateau Chocolat Moelleux','5.35');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','RaisinRouge','4.90');
