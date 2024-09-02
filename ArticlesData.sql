@@ -1297,4 +1297,10 @@ INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Salade Poulet curry 20
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Lays 45gr','0.83');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Gressinis romarain','0.87');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','filet dinde','2.85');
+INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Vitalinea','3.55');
+INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Harry Moelleux Complet','2.89');
+INSERT INTO ArticlesData VALUES('02/09/2024','Carrefour Express','Salade Iceberg 100g','1.00');
+INSERT INTO ArticlesData VALUES('02/09/2024','Carrefour Express','Pizza Hawai','1.50');
+INSERT INTO ArticlesData VALUES('02/09/2024','Carrefour Express','brownie carré','1.00');
 COMMIT;
