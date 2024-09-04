@@ -1271,6 +1271,8 @@ INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Pain Mie Blanc','1.29')
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Kinder Maxi','3.65');
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Salade Américaine','5.49');
 INSERT INTO ArticlesData VALUES('08/08/2024','Delhaize','Sushi Crispy Poulet','7.90');
+INSERT INTO ArticlesData VALUES('17/08/2024','Proxy Delhaize','Plat Préparé Tomate Boulette','5.19');
+INSERT INTO ArticlesData VALUES('17/08/2024','Proxy Delhaize','Plat Préparé Linguini Tomage','5.09');
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Sushi Crispy Poulet','7.90');
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Pain Mie Blanc','1.35');
 INSERT INTO ArticlesData VALUES('26/08/2024','Delhaize','Chokotoff 500gr','4.59');
@@ -1297,6 +1299,11 @@ INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Salade Poulet curry 20
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Lays 45gr','0.83');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','Gressinis romarain','0.87');
 INSERT INTO ArticlesData VALUES('28/08/2024','CoMarché','filet dinde','2.85');
+INSERT INTO ArticlesData VALUES('30/08/2024','Intermarché','Chips Ancienne 6X30g','1.79');
+INSERT INTO ArticlesData VALUES('30/08/2024','Intermarché','Biscottes Chabrior','1.79');
+INSERT INTO ArticlesData VALUES('30/08/2024','Intermarché','Sauce Tomate Olive','1.59');
+INSERT INTO ArticlesData VALUES('30/08/2024','Intermarché','Biscuit Breton','1.15');
+INSERT INTO ArticlesData VALUES('30/08/2024','Intermarché','Chabrior Biscuit Ecolier','0.95');
 INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Vitalinea','3.55');
 INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Pain Mie Blanc','1.35');
 INSERT INTO ArticlesData VALUES('02/09/2024','Delhaize','Harry Moelleux Complet','2.89');
