@@ -1270,6 +1270,10 @@ Date,Enseigne,Article,Prix
 08/08/2024,Delhaize,Sushi Crispy Poulet,7.90
 17/08/2024,Proxy Delhaize,Plat Préparé Tomate Boulette,5.19
 17/08/2024,Proxy Delhaize,Plat Préparé Linguini Tomage,5.09
+20/08/2024,Delhaize,Pain Mie Blanc,1.29
+20/08/2024,Delhaize,Pate de fruit,3.99
+20/08/2024,Delhaize,Emmental Tr,2.19
+20/08/2024,Delhaize,Mini Fondants Choco,5.19
 26/08/2024,Delhaize,Sushi Crispy Poulet,7.90
 26/08/2024,Delhaize,Pain Mie Blanc,1.35
 26/08/2024,Delhaize,Chokotoff 500gr,4.59
@@ -1307,12 +1311,15 @@ Date,Enseigne,Article,Prix
 02/09/2024,Carrefour Express,Salade Iceberg 100g,1.00
 02/09/2024,Carrefour Express,Pizza Hawai,1.50
 02/09/2024,Carrefour Express,brownie carré,1.00
+16/09/2024,Delhaize,Framboise 125gr,3.45
+16/09/2024,Delhaize,Tomates ceerises,1.14
+16/09/2024,Delhaize,SauceTomateLegMini,1.23
 15/09/2024,Intermarché,Biscottes Chabrior,1.39
 15/09/2024,Intermarché,Royco SupremeTom,1.49
 15/09/2024,Intermarché,Chabrior Biscuit Ecolier,0.95
 15/09/2024,Intermarché,Biscuit Breton,1.15
 15/09/2024,Intermarché,Chips Ancienne 6X30g,1.79
-15/09/2024,Intermarché,Intermarché,Huile Olive 1L,8.49
+15/09/2024,Intermarché,Huile Olive 1L,8.49
 15/09/2024,Intermarché,Pringels imitation,1.61
 16/09/2024,Delhaize,Pain Mie Blanc,1.35
 16/09/2024,Delhaize,Papier toilette 4C 6R,2.69
@@ -1322,4 +1329,4 @@ Date,Enseigne,Article,Prix
 17/09/2024,Aldi,Chokotoff 500gr,4.69
 17/09/2024,Aldi,Kinder Bueno 5-Pack,2.75
 17/09/2024,Aldi,Kinder chocolat x12,1.75
-17/09/2024,Aldi,Bonbon sans sucre citron,1.75
+17/09/2024,Aldi,Bonbon citron,1.75
