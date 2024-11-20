@@ -1392,4 +1392,16 @@ INSERT INTO ArticlesData VALUES('12/11/2024','CoMarché','shampoing oranger','0.
 INSERT INTO ArticlesData VALUES('12/11/2024','CoMarché','Framboise 125gr','2.73');
 INSERT INTO ArticlesData VALUES('12/11/2024','CoMarché','Boni Safari x6','1.89');
 INSERT INTO ArticlesData VALUES('12/11/2024','CoMarché','Everyday Galette de Riz','0.38');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Kinder Bueno 4-Pack','3.05');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','SoupeTomBou','1.49');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Croutons','1.49');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Fanta 33cl','0.84');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Carrefour Capsules café','4.25');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Cent Wafer X6','2.79');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Sandwich','0.49');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Framboise 125gr','2.49');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','BananeKG','1.25');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Carrefour Rosette','1.99');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Cheddar','3');
+INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Lays Salt Pepper 45gr','0.79');
 COMMIT;
