@@ -1409,4 +1409,7 @@ INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','BananeKG','1.25');
 INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Carrefour Rosette','1.99');
 INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Cheddar','3');
 INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Lays Salt Pepper 45gr','0.79');
+INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','Everyday Galette de Riz','0.38');
+INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','pudding vanille 6x','3.69');
+INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','Lu Crackers','2.05');
 COMMIT;
