@@ -1365,6 +1365,7 @@ INSERT INTO ArticlesData VALUES('04/11/2024','CoMarché','Comcombre','0.98');
 INSERT INTO ArticlesData VALUES('04/11/2024','CoMarché','Framboise 125gr','2.73');
 INSERT INTO ArticlesData VALUES('04/11/2024','CoMarché','Lotus Zebra 6x31','2.39');
 INSERT INTO ArticlesData VALUES('04/11/2024','CoMarché','Poivron Rouge','0.98');
+INSERT INTO ArticlesData VALUES('07/11/2024','Action','Bueno 3-Pack','2.49');
 INSERT INTO ArticlesData VALUES('07/11/2024','Aldi','Mozzarella 125gr','0.79');
 INSERT INTO ArticlesData VALUES('07/11/2024','Aldi','Kinder 12x','1.75');
 INSERT INTO ArticlesData VALUES('07/11/2024','Aldi','Madeleines 12','1.79');
