@@ -1413,4 +1413,9 @@ INSERT INTO ArticlesData VALUES('20/11/2024','Carrefour','Lays Salt Pepper 45gr'
 INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','Everyday Galette de Riz','0.38');
 INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','pudding vanille 6x','3.69');
 INSERT INTO ArticlesData VALUES('21/11/2024','CoMarché','Lu Crackers','2.05');
+INSERT INTO ArticlesData VALUES('05/12/2024','Spar','pudding vanille 6x','4.17');
+INSERT INTO ArticlesData VALUES('05/12/2024','Spar','yaourt maigre 6x','1.39');
+INSERT INTO ArticlesData VALUES('05/12/2024','Delhaize','Emmental Tr','2.09');
+INSERT INTO ArticlesData VALUES('05/12/2024','Delhaize','Kinder 200gr','2.65');
+INSERT INTO ArticlesData VALUES('05/12/2024','Delhaize','Côte d''or 400gr','3.59');
 COMMIT;
