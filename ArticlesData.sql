@@ -1428,4 +1428,13 @@ INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Kwatta noir 600gr','5.
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Everyday Galette de Riz','0.38');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Aiki Rice Curry','2.80');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','BananeKG','2.75');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','yaourt maigre 6x','1.19');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','FromageTrMou','1.75');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Boni fromage à tartiner 200gr','1.53');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Salade Caesar','4.49');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Chocolat Noir 200g','1.05');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Boni Cheese Flips','0.71');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Gressinis romarain','0.87');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Farine 1kg','0.35');
+INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Mouchoirs','0.75');
 COMMIT;
