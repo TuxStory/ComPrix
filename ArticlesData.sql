@@ -1338,7 +1338,7 @@ INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','Pain Mie Blanc','1.35')
 INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','Papier toilette 4C 6R','2.69');
 INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','vicks citron','2.19');
 INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','6 nems vg','3.39');
-INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','gouda tranche jeune','1.35');
+INSERT INTO ArticlesData VALUES('16/09/2024','Delhaize','gouda tranche jeune','3.15');
 INSERT INTO ArticlesData VALUES('17/09/2024','Aldi','Chokotoff 500gr','4.69');
 INSERT INTO ArticlesData VALUES('17/09/2024','Aldi','Kinder Bueno 5-Pack','2.75');
 INSERT INTO ArticlesData VALUES('17/09/2024','Aldi','Kinder chocolat x12','1.75');
@@ -1437,4 +1437,5 @@ INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Boni Cheese Flips','0.
 INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Gressinis romarain','0.87');
 INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Farine 1kg','0.35');
 INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Mouchoirs','0.75');
+INSERT INTO ArticlesData VALUES('14/12/2024','Carrefour Express','gouda tranche jeune','2.99');
 COMMIT;
