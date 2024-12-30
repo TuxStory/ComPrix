@@ -1438,4 +1438,10 @@ INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Gressinis romarain','0
 INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Farine 1kg','0.35');
 INSERT INTO ArticlesData VALUES('15/12/2024','CoMarché','Mouchoirs','0.75');
 INSERT INTO ArticlesData VALUES('14/12/2024','Carrefour Express','gouda tranche jeune','2.99');
+INSERT INTO ArticlesData VALUES('28/12/2024','Colruyt','Boni Cheese Flips','0.62');
+INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Pizza Hawai','1.99');
+INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Haribo Spaghetti 70gr','0.99');
+INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Werther''s original','1.95');
+INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Biscottes car','1.99');
+INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Chocolat Noir 200g','1.59');
 COMMIT;
