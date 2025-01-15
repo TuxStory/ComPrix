@@ -1444,4 +1444,5 @@ INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Haribo Spaghetti 70gr'
 INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Werther''s original','1.95');
 INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Biscottes car','1.99');
 INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Chocolat Noir 200g','1.59');
+INSERT INTO ArticlesData VALUES('15/01/2025','Delhaize','Pizza Hawai','1.45');
 COMMIT;
