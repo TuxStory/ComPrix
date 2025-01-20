@@ -1423,7 +1423,7 @@ INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Framboise 125gr','2.71
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Jus Pomme 1L','0.69');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Jus Orange 1L BIO','2.51');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','TB Saucisses Frankfurt','1.45');
-INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Lu Crackers','2.05');
+INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Mouchoirs','0.55');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Kwatta noir 600gr','5.40');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Everyday Galette de Riz','0.38');
 INSERT INTO ArticlesData VALUES('07/12/2024','CoMarché','Aiki Rice Curry','2.80');
@@ -1445,4 +1445,15 @@ INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Werther''s original','
 INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Biscottes car','1.99');
 INSERT INTO ArticlesData VALUES('31/12/2024','Carrefour','Chocolat Noir 200g','1.59');
 INSERT INTO ArticlesData VALUES('15/01/2025','Delhaize','Pizza Hawai','1.45');
+INSERT INTO ArticlesData VALUES('15/01/2024','CoMarché','FromageTrMou','1.73');
+INSERT INTO ArticlesData VALUES('15/01/2024','CoMarché','Boni fromage à tartiner 200gr','1.53');
+INSERT INTO ArticlesData VALUES('15/01/2024','CoMarché','Harrys Mie Complet','4.71');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Vermicelles noir 600gr','2.35');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Mouchoirs','0.99');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Mini crackers nat delhaize','1.39');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Lu Crackers','2.25');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Mozzarella 125gr','0.79');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Filet Americain','2.01');
+INSERT INTO ArticlesData VALUES('15/01/2024','Delhaize','Phil Light 320','3.35');
 COMMIT;
