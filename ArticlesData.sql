@@ -1465,4 +1465,11 @@ INSERT INTO ArticlesData VALUES('21/12/2024','CoMarché','Laitiere Pudding x4','
 INSERT INTO ArticlesData VALUES('21/12/2024','CoMarché','RaisinRouge','2.79');
 INSERT INTO ArticlesData VALUES('21/12/2024','CoMarché','EverydayGalette','1.56');
 INSERT INTO ArticlesData VALUES('21/12/2024','CoMarché','PimpsOrange','1.41');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Snack Day Teddy','1.15');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Pain Mie Blanc','1.29');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Framboise 125gr','2.49');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Mouchoirs','0.79');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Kinder 200gr','2.6');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Mozzarella Light 125gr','0.75');
+INSERT INTO ArticlesData VALUES('24/12/2024','Lidl','Salade Caesar','4.79');
 COMMIT;
