@@ -1487,4 +1487,10 @@ INSERT INTO ArticlesData VALUES('30/01/2025','Delhaize','Mini prince choco delha
 INSERT INTO ArticlesData VALUES('30/01/2025','Delhaize','225gr Animals choco','1.55');
 INSERT INTO ArticlesData VALUES('30/01/2025','Delhaize','Lu Crackers','2.15');
 INSERT INTO ArticlesData VALUES('30/01/2025','Spar','Pain Brioc Hamburger','2.20');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Mozzarella 125gr','0.79');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Phil Light 320','3.25');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Salade Caesar','4.25');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','pâtes ready to heat basilic','1.99');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','EverydayGalette','1.41');
+INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Poivrons Bio','5.71');
 COMMIT;
