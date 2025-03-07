@@ -1493,4 +1493,7 @@ INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Salade Caesar','4.25');
 INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','pâtes ready to heat basilic','1.99');
 INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','EverydayGalette','1.41');
 INSERT INTO ArticlesData VALUES('14/02/2025','Colruyt','Poivrons Bio','5.71');
+INSERT INTO ArticlesData VALUES('06/03/2025','Carrefour Express','Salade Iceberg 100g','1.09');
+INSERT INTO ArticlesData VALUES('06/03/2025','Carrefour Express','Milka Ouefs Blanc','2.99');
+INSERT INTO ArticlesData VALUES('06/03/2025','Carrefour Express','Pain Mie Blanc','2.69');
 COMMIT;
