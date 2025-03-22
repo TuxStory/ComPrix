@@ -1506,4 +1506,8 @@ INSERT INTO ArticlesData VALUES('21/03/2025','Delhaize','Lotus Zebra 6x31','2.39
 INSERT INTO ArticlesData VALUES('21/03/2025','Delhaize','Salade Américaine','5.49');
 INSERT INTO ArticlesData VALUES('21/03/2025','Delhaize','Eventails Biscuit glace','2.09');
 INSERT INTO ArticlesData VALUES('21/03/2025','Delhaize','190gr Arrabiata sauce','0.95');
+INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat basilic','1.99');
+INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat arrabiata','1.99');
+INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','biscuit cigarette','1.34');
+INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','Look-o-look tapis','2.54');
 COMMIT;
