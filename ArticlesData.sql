@@ -1510,4 +1510,9 @@ INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat bas
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat arrabiata','1.99');
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','biscuit cigarette','1.34');
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','Look-o-look tapis','2.54');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Phil Light 320','3.38');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Chipolata','3.50');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','beurre spar','2.09');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Boni Pomme de pin','4.75');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Mayo devos lemans','2.25');
 COMMIT;
