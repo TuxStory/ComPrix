@@ -1527,4 +1527,8 @@ INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Chipolata','3.50');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','beurre spar','2.09');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Boni Pomme de pin','4.75');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Mayo devos lemans','2.25');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Pain noir','2.00');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Chokotoff 500gr','4.75');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Lu Crackers','2.15');
+INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Everyday Galette de Riz','0.38');
 COMMIT;
