@@ -1510,6 +1510,18 @@ INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat bas
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','pâtes ready to heat arrabiata','1.99');
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','biscuit cigarette','1.34');
 INSERT INTO ArticlesData VALUES('21/03/2025','Colruyt','Look-o-look tapis','2.54');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Mozzarella 125gr','1.24');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Marcassou saucisson de Table','4.02');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Everyday Gervais','1.49');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','fraises','6.49');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','yaourt maigre 6x','1.35');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Boni Nuggets Poulet','2.95');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Boni jus orange 33cl','0.66');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Mouchoirs','0.75');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Chocolat Noir 200g','0.80');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Farine T55 1kg','0.38');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','Look-o-look tapis','2.95');
+INSERT INTO ArticlesData VALUES('28/03/2025','Spar','jeune gouda block spar','8.95');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Phil Light 320','3.38');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','Chipolata','3.50');
 INSERT INTO ArticlesData VALUES('31/03/2025','Spar','beurre spar','2.09');
