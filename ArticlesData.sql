@@ -1542,4 +1542,5 @@ INSERT INTO ArticlesData VALUES('07/04/2025','Spar','Pain Brioc Hamburger','2.06
 INSERT INTO ArticlesData VALUES('07/04/2025','Spar','BetterFood 175gr','1.55');
 INSERT INTO ArticlesData VALUES('07/04/2025','Spar','Boni Liquide Vaisselle','1.45');
 INSERT INTO ArticlesData VALUES('07/04/2025','Spar','4 petits pain baguettes','0.61');
+INSERT INTO ArticlesData VALUES('07/04/2025','Spar','spagethi Mix','1.98');
 COMMIT;
