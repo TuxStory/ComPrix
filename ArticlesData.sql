@@ -1549,4 +1549,15 @@ INSERT INTO ArticlesData VALUES('11/04/2025','Spar','Boni jus orannge 50cl','1.4
 INSERT INTO ArticlesData VALUES('11/04/2025','Spar','Oasis Pomme Casis 33cl','0.99');
 INSERT INTO ArticlesData VALUES('11/04/2025','Spar','Wherter''s original 175gr','1.95');
 INSERT INTO ArticlesData VALUES('11/04/2025','Spar','Everyday Bloc Goufa jeune 500gr','4.05');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Milka oeufs','2.85');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Lay''s Naturel/Paprika','1.45');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Lay''s salt & pepper','0.75');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Lu Crackers','2.21');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Bonbons Car fruits','1.95');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Harrys Mie Blanc','2.99');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Framboise 125gr','3.49');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','gouda tranche jeune','2.99');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Emmental Tr','1.99');
+INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Ring Onion','0.69');
 COMMIT;
