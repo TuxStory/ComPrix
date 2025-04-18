@@ -1560,4 +1560,11 @@ INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Framboise 125gr','3.49
 INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','gouda tranche jeune','2.99');
 INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Emmental Tr','1.99');
 INSERT INTO ArticlesData VALUES('16/04/2025','Carrefour','Ring Onion','0.69');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','Spar jambon degrais','4.87');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','laitue iceberg coupée','1.25');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','spagethi Mix','1.98');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','Spar Tortellini','2.49');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','Pain Brioc Hamburger','2.06');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','yaourt maigre 6x','1.35');
+INSERT INTO ArticlesData VALUES('18/04/2025','Spar','EverydayGalette','1.55');
 COMMIT;
