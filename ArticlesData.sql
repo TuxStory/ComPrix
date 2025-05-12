@@ -1582,4 +1582,18 @@ INSERT INTO ArticlesData VALUES('20/04/2025','Delhaize','4 pain empereurs','0.59
 INSERT INTO ArticlesData VALUES('20/04/2025','Delhaize','Pimps','1.49');
 INSERT INTO ArticlesData VALUES('21/04/2025','Aldi','Mozza rapé','2.39');
 INSERT INTO ArticlesData VALUES('21/04/2025','Aldi','Bonbon sans sucre','1.59');
+INSERT INTO ArticlesData VALUES('23/04/2025','Colruyt','Salade Caesar','3.98');
+INSERT INTO ArticlesData VALUES('23/04/2025','Colruyt','Lu Crackers','2.15');
+INSERT INTO ArticlesData VALUES('30/04/2025','Colruyt','Lays 45gr','0.75');
+INSERT INTO ArticlesData VALUES('30/04/2025','Colruyt','Boni Cheese flips','0.62');
+INSERT INTO ArticlesData VALUES('30/04/2025','Colruyt','Edulcorant de table','0.72');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Crocky Fritas Patatas','1.99');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Phil Light 320','3.38');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Spar jambon degrais','4.87');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Comcombre','1.09');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Everyday Salade Mixte','0.69');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Oasis Pomme Cassis 2L','4.29');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Pain Brioc Hamburger','2.06');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Boni Ketchup','1.19');
+INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Everyday Galette de Riz','0.38');
 COMMIT;
