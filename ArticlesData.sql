@@ -1596,4 +1596,14 @@ INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Oasis Pomme Cassis 2L','4.2
 INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Pain Brioc Hamburger','2.06');
 INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Boni Ketchup','1.19');
 INSERT INTO ArticlesData VALUES('02/05/2025','Spar','Everyday Galette de Riz','0.38');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Côte d''or 400gr','4.75');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','spagethi Mix','1.98');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Oignons jeunes','1.09');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Marcassou saucisson de Table','4.02');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','côte d''or noir 150gr','2.55');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Boni vinaigrette cibouilette','2.15');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Everyday Galette de Riz','0.38');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Soubry nouilles chinoises','0.99');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','ChocoFun CocoNut','1.89');
+INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Spar 6 oeufs','0.99');
 COMMIT;
