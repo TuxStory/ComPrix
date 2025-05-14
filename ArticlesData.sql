@@ -1606,4 +1606,5 @@ INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Everyday Galette de Riz','0
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Soubry nouilles chinoises','0.99');
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','ChocoFun CocoNut','1.89');
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Spar 6 oeufs','0.99');
+INSERT INTO ArticlesData VALUES('10/05/2025','Carrefour','Côte d''or 400gr','4.89');
 COMMIT;
