@@ -1606,5 +1606,9 @@ INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Everyday Galette de Riz','0
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Soubry nouilles chinoises','0.99');
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','ChocoFun CocoNut','1.89');
 INSERT INTO ArticlesData VALUES('10/05/2025','Spar','Spar 6 oeufs','0.99');
-INSERT INTO ArticlesData VALUES('10/05/2025','Carrefour','Côte d''or 400gr','4.89');
+INSERT INTO ArticlesData VALUES('13/05/2025','Spar','Framboise 125gr','2.69');
+INSERT INTO ArticlesData VALUES('13/05/2025','Spar','Pain Brioc Hamburger','2.06');
+INSERT INTO ArticlesData VALUES('13/05/2025','Spar','sac poubelles','1.35');
+INSERT INTO ArticlesData VALUES('13/05/2025','Spar','Chiquita 1.5kg','3.88');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Côte d''or 400gr','4.89');
 COMMIT;
