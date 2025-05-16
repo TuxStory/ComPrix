@@ -1611,4 +1611,17 @@ INSERT INTO ArticlesData VALUES('13/05/2025','Spar','Pain Brioc Hamburger','2.06
 INSERT INTO ArticlesData VALUES('13/05/2025','Spar','sac poubelles','1.35');
 INSERT INTO ArticlesData VALUES('13/05/2025','Spar','Chiquita 1.5kg','3.88');
 INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Côte d''or 400gr','4.89');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','gouda tranche jeune','2.99');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','BetterFood 175gr','1.55');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Jus Pomme Pulpe 25cl','1.59');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Lu Prince Fourré','1.75');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Lays Max slt & pep','1.99');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Twix Mini 14x','4.89');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Panzani spaghetti 500gr','1.54');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Framboise 125gr','2.69');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Kinder 300g 24','3.79');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Bonbon sans sucre','1.59');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Saucisse Viennoise','1.59');
+INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Chaudfontaine 50cl','0.82');
 COMMIT;
