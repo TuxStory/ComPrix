@@ -1624,4 +1624,10 @@ INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Kinder 300g 24','3.79'
 INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Bonbon sans sucre','1.59');
 INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Saucisse Viennoise','1.59');
 INSERT INTO ArticlesData VALUES('14/05/2025','Carrefour','Chaudfontaine 50cl','0.82');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','Framboise 125gr','3.19');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','Spianata Romana saucisson','1.89');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','Mozzarella 125gr','1.29');
+INSERT INTO ArticlesData VALUES('18/05/2025','Delhaize','scampi bio 125gr','4.39');
 COMMIT;
