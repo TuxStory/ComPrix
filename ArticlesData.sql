@@ -1660,6 +1660,7 @@ INSERT INTO ArticlesData VALUES('28/05/2025','Delhaize','Phil Light 320','3.35')
 INSERT INTO ArticlesData VALUES('28/05/2025','Delhaize','Pain Mie Blanc','1.35');
 INSERT INTO ArticlesData VALUES('28/05/2025','Delhaize','Huile Olive Spray','4.29');
 INSERT INTO ArticlesData VALUES('04/06/2025','Carrefour','Biscuit Marquisette','2.15');
+INSERT INTO ArticlesData VALUES('07/06/2025','Spar','Boni Vermicelles noir 600gr','3.24');
 INSERT INTO ArticlesData VALUES('08/06/2025','Carrefour','Harrys Complet 500gr','2.49');
 INSERT INTO ArticlesData VALUES('08/06/2025','Carrefour','Emmental Tr','1.99');
 INSERT INTO ArticlesData VALUES('08/06/2025','Carrefour','Biscotte car','1.99');
