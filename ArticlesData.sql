@@ -1678,4 +1678,6 @@ INSERT INTO ArticlesData VALUES('18/06/2025','Delhaize','Fondant chocolat','3.79
 INSERT INTO ArticlesData VALUES('18/06/2025','Delhaize','Burger Legume','1.59');
 INSERT INTO ArticlesData VALUES('18/06/2025','Delhaize','Phil Light 320','3.35');
 INSERT INTO ArticlesData VALUES('18/06/2025','Delhaize','Tartelette Pomme','1.85');
+INSERT INTO ArticlesData VALUES('18/06/2025','Spar','Chokotoff 250gr','4.29');
+INSERT INTO ArticlesData VALUES('18/06/2025','Spar','Spar Raisins sultana','1.94');
 COMMIT;
