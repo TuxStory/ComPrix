@@ -1681,4 +1681,9 @@ INSERT INTO ArticlesData VALUES('18/06/2025','Delhaize','Tartelette Pomme','1.85
 INSERT INTO ArticlesData VALUES('18/06/2025','Spar','Chokotoff 250gr','4.29');
 INSERT INTO ArticlesData VALUES('18/06/2025','Spar','Spar Raisins sultana','1.94');
 INSERT INTO ArticlesData VALUES('24/06/2025','Spar','Donburi Yakitori','9.99');
+INSERT INTO ArticlesData VALUES('25/06/2025','Carrefour','cheddar tranches 200gr','3.45');
+INSERT INTO ArticlesData VALUES('25/06/2025','Carrefour','Golden Curry 92gr Mild','2.79');
+INSERT INTO ArticlesData VALUES('25/06/2025','Carrefour','Emmetal Tr','1.99');
+INSERT INTO ArticlesData VALUES('25/06/2025','Carrefour','Sandwish','0.49');
+INSERT INTO ArticlesData VALUES('25/06/2025','Carrefour','Lu Prince Fourré','1.70');
 COMMIT;
