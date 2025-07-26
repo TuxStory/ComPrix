@@ -1690,4 +1690,8 @@ INSERT INTO ArticlesData VALUES('29/06/2025','Delhaize','Chips Sel Bio','1.99');
 INSERT INTO ArticlesData VALUES('29/06/2025','Delhaize','Oasis citron vert','3.49');
 INSERT INTO ArticlesData VALUES('29/06/2025','Delhaize','Salade Américaine','5.49');
 INSERT INTO ArticlesData VALUES('29/06/2025','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','Kinder Bueno x1','1.19');
+INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 25cl','0.38');
+INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 15cl','0.34');
+INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','Salami Italien 100gr','1.89');
 COMMIT;
