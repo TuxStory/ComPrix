@@ -1694,4 +1694,5 @@ INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','Kinder Bueno x1','1.19');
 INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 25cl','0.38');
 INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 15cl','0.34');
 INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','Salami Italien 100gr','1.89');
+INSERT INTO ArticlesData VALUES('05/08/2025','Spar','Côte d''or 400gr','3.99');
 COMMIT;
