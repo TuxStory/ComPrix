@@ -1695,4 +1695,8 @@ INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 25cl','0.38'
 INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','canette orange 15cl','0.34');
 INSERT INTO ArticlesData VALUES('05/07/2025','Aldi','Salami Italien 100gr','1.89');
 INSERT INTO ArticlesData VALUES('05/08/2025','Spar','Côte d''or 400gr','3.99');
+INSERT INTO ArticlesData VALUES('05/08/2025','Spar','Chocolat Noir 200g','1.69');
+INSERT INTO ArticlesData VALUES('16/08/2025','Action','Bueno 3-Pack','2.49');
+INSERT INTO ArticlesData VALUES('16/08/2025','Action','Kinder Maxi x4','1.79');
+INSERT INTO ArticlesData VALUES('16/08/2025','Action','Gilette Fusion x3','8.95');
 COMMIT;
