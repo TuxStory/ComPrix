@@ -1699,4 +1699,13 @@ INSERT INTO ArticlesData VALUES('05/08/2025','Spar','Chocolat Noir 200g','1.69')
 INSERT INTO ArticlesData VALUES('16/08/2025','Action','Bueno 3-Pack','2.49');
 INSERT INTO ArticlesData VALUES('16/08/2025','Action','Kinder Maxi x4','1.79');
 INSERT INTO ArticlesData VALUES('16/08/2025','Action','Gilette Fusion x3','8.95');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Boni Escalope Plan''t','2.49');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Phil Light 320','3.45');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Boni pommes pin 1kg','4.79');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Boni  Boulettes sauce tomate surgelé','3.79');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','evian 50cl','0.79');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Croky patatas fritas','1.95');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','spar oeufs 6','2.29  ');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Lay''s Wokkels','2.61');
+INSERT INTO ArticlesData VALUES('26/08/2025','Spar','Nectarine kg','3.99');
 COMMIT;
