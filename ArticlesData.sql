@@ -1716,4 +1716,18 @@ INSERT INTO ArticlesData VALUES('27/08/2025','Spar','Chocolat Noir 200g','1.69')
 INSERT INTO ArticlesData VALUES('27/08/2025','Spar','Côte d''or 400gr','3.99');
 INSERT INTO ArticlesData VALUES('27/08/2025','Spar','Lays Salt Pepper 45gr','0.79');
 INSERT INTO ArticlesData VALUES('27/08/2025','Spar','pâte à tartiner noisette','1.99');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','gouda tranche jeune','3.29');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','225gr Animals choco','1.65');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','Phil Light 320','3.45');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','Nutella 400gr','3.39');
+INSERT INTO ArticlesData VALUES('27/08/2025','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Framboise 125gr','2.79');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Pain Mie Blanc','1.35');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Escalope Pané vg','3.59');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Escalope fromage vg','3.49');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Purée de Pomme de terre','3.49');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Franfurt Delhaize','2.49');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Huile Olive Spray','3.99');
+INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Delhaize Tartelette Pomme','1.95');
 COMMIT;
