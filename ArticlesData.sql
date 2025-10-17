@@ -1730,4 +1730,5 @@ INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Purée de Pomme de terr
 INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Franfurt Delhaize','2.49');
 INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Huile Olive Spray','3.99');
 INSERT INTO ArticlesData VALUES('11/09/2025','Delhaize','Delhaize Tartelette Pomme','1.95');
+INSERT INTO ArticlesData VALUES('15/10/2025','Carrefour','SoupeTomBou','1.69');
 COMMIT;
