@@ -1738,4 +1738,8 @@ INSERT INTO ArticlesData VALUES('15/10/2025','Carrefour','Moutarde imperiale','1
 INSERT INTO ArticlesData VALUES('15/10/2025','Carrefour','vache qui rit petit','2.28');
 INSERT INTO ArticlesData VALUES('15/10/2025','Carrefour','Biscotte car','1.99');
 INSERT INTO ArticlesData VALUES('15/10/2025','Carrefour','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','gouda tranche jeune 12','4.75');
+INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','Fondants Choco','3.79');
+INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','2x Eclairs Choco','2.89 ');
 COMMIT;
