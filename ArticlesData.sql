@@ -1742,4 +1742,5 @@ INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','Phil Light 320','3.35')
 INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','gouda tranche jeune 12','4.75');
 INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','Fondants Choco','3.79');
 INSERT INTO ArticlesData VALUES('05/11/2025','Delhaize','2x Eclairs Choco','2.89 ');
+INSERT INTO ArticlesData VALUES('06/11/2025','Colruyt','EverydayGalette','1.68');
 COMMIT;
