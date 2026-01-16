@@ -1748,6 +1748,11 @@ INSERT INTO ArticlesData VALUES('02/01/2026','Intermarché','BetterFood 175gr','
 INSERT INTO ArticlesData VALUES('02/01/2026','Lidl','Salade Caesar','4.49');
 INSERT INTO ArticlesData VALUES('02/01/2026','Lidl','Bellona Imitation Bueno','3.18');
 INSERT INTO ArticlesData VALUES('02/01/2026','Lidl','Boules Blanches pain','0.99');
+INSERT INTO ArticlesData VALUES('08/01/1016','Spar','Boni Fromage Frais Maigre 500gr','1.05');
+INSERT INTO ArticlesData VALUES('08/01/1016','Spar','Pain Brioc Hamburger','2.06');
+INSERT INTO ArticlesData VALUES('08/01/1016','Spar','Everyday Biscottes Rondes','0.71');
+INSERT INTO ArticlesData VALUES('08/01/1016','Spar','Vitabis','1.99');
+INSERT INTO ArticlesData VALUES('08/01/1016','Spar','Framboise 125gr','2.79');
 INSERT INTO ArticlesData VALUES('15/01/2026','Aldi','Salami Italien 100gr','1.89');
 INSERT INTO ArticlesData VALUES('15/01/2026','Aldi','Salami Mini Panda','1.75');
 INSERT INTO ArticlesData VALUES('15/01/2026','Aldi','Saucisson Panda x2','0.99');
