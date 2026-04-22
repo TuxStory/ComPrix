@@ -1806,4 +1806,14 @@ INSERT INTO ArticlesData VALUES('21/04/2026','Spar','Boni Fromage à tartiner 24
 INSERT INTO ArticlesData VALUES('21/04/2026','Spar','Devos Mayo citron 300ml','1.93');
 INSERT INTO ArticlesData VALUES('21/04/2026','Spar','Boni Crisp galette riz Paprika','2.49');
 INSERT INTO ArticlesData VALUES('21/04/2026','Spar','Chokotoff noir 500gr','5.19');
+INSERT INTO ArticlesData VALUES('22/04/2026','Aldi','Chokotoff 500gr','4.99');
+INSERT INTO ArticlesData VALUES('22/04/2026','Aldi','Bonbon sans sucre','1.99');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Spa fruit peach poire','1.36');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Harrys sans sucre','2.69');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','BetterFood 175gr','1.55');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Lu Crackers','2.25');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','gouda tranche jeune 12','4.61');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Salade Américaine','5.49');
+INSERT INTO ArticlesData VALUES('22/04/2026','Delhaize','Fondants Choco','3.79');
 COMMIT;
