@@ -1832,4 +1832,15 @@ INSERT INTO ArticlesData VALUES('01/10/2026','Spar','Tomates Bonbons 500gr','3.4
 INSERT INTO ArticlesData VALUES('01/10/2026','Spar','Jambon degraissé 4','2.70');
 INSERT INTO ArticlesData VALUES('01/10/2026','Colruyt','Papier toilette 4C 6R','2.35');
 INSERT INTO ArticlesData VALUES('01/10/2026','Colruyt','Chocolat Noir 200g','1.63');
+INSERT INTO ArticlesData VALUES('08/10/2026','Spar','Sauce Giant','3.20');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Sauce Giant','2.61');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Phil Light 320','3.35');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','BetterFood 175gr','1.59');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Sauce Tomate Basilic','1.00');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Lay''s Chips Paprika 40gr','0.75');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Zwan Vienne 8PC','2.73');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Biscuit Palet Breton','1.56');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Gateau Chocolat Moelleux','5.75');
+INSERT INTO ArticlesData VALUES('08/10/2026','Intermarché','Duracel 9V','7.99');
+INSERT INTO ArticlesData VALUES('08/10/2026','Spar','Duracel 9v','8.07');
 COMMIT;
